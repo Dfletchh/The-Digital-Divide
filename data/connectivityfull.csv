@@ -1,0 +1,1251 @@
+country,countryCode,year,internetPenetration,gdpPerCapita,population,region
+United States,USA,2000,45.6,36335,331900000,North America
+Germany,DEU,2000,34.5,23735,83200000,Europe & Central Asia
+Japan,JPN,2000,41.1,37303,125800000,East Asia & Pacific
+United Kingdom,GBR,2000,30.8,26389,67800000,Europe & Central Asia
+France,FRA,2000,16.3,22729,67400000,Europe & Central Asia
+Canada,CAN,2000,53.9,23424,38200000,North America
+Australia,AUS,2000,51.4,21679,25700000,East Asia & Pacific
+South Korea,KOR,2000,49.3,12094,51780000,East Asia & Pacific
+Sweden,SWE,2000,50.5,29341,10350000,Europe & Central Asia
+Norway,NOR,2000,58,38023,5380000,Europe & Central Asia
+China,CHN,2000,2.6,959,1412000000,East Asia & Pacific
+India,IND,2000,0.2,443,1380000000,South Asia
+Brazil,BRA,2000,4.2,3740,215000000,Latin America & Caribbean
+Russia,RUS,2000,4.2,1772,146000000,Europe & Central Asia
+Mexico,MEX,2000,7.6,6569,128900000,Latin America & Caribbean
+Indonesia,IDN,2000,2.1,857,273500000,East Asia & Pacific
+Turkey,TUR,2000,6.1,4219,84300000,Europe & Central Asia
+South Africa,ZAF,2000,9.2,3023,59300000,Sub-Saharan Africa
+Thailand,THA,2000,6.1,1969,69800000,East Asia & Pacific
+Malaysia,MYS,2000,25.1,4004,32400000,East Asia & Pacific
+Nigeria,NGA,2000,0,380,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2000,0.3,356,164700000,South Asia
+Pakistan,PAK,2000,0.1,470,225200000,South Asia
+Ethiopia,ETH,2000,0,128,118000000,Sub-Saharan Africa
+Kenya,KEN,2000,1.6,401,54000000,Sub-Saharan Africa
+Ghana,GHA,2000,0.8,271,32800000,Sub-Saharan Africa
+Uganda,UGA,2000,0,249,47100000,Sub-Saharan Africa
+Tanzania,TZA,2000,0.3,280,61500000,Sub-Saharan Africa
+Senegal,SEN,2000,1.4,445,17200000,Sub-Saharan Africa
+Cambodia,KHM,2000,1,288,16700000,East Asia & Pacific
+Argentina,ARG,2000,11.1,7697,45400000,Latin America & Caribbean
+Chile,CHL,2000,20.2,5074,19100000,Latin America & Caribbean
+Poland,POL,2000,10.1,4454,37900000,Europe & Central Asia
+Czech Republic,CZE,2000,15.6,5803,10700000,Europe & Central Asia
+Hungary,HUN,2000,18.1,4549,9750000,Europe & Central Asia
+Portugal,PRT,2000,21.3,11435,10300000,Europe & Central Asia
+Greece,GRC,2000,12.5,11636,10700000,Europe & Central Asia
+Croatia,HRV,2000,11.5,4560,3890000,Europe & Central Asia
+Estonia,EST,2000,34.2,3989,1330000,Europe & Central Asia
+Lithuania,LTU,2000,6,3110,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2000,3.2,9216,35000000,Middle East & North Africa
+UAE,ARE,2000,28.3,31186,9890000,Middle East & North Africa
+Kuwait,KWT,2000,8.8,18363,4270000,Middle East & North Africa
+Qatar,QAT,2000,22.4,27664,2880000,Middle East & North Africa
+Bahrain,BHR,2000,9.4,11474,1700000,Middle East & North Africa
+Singapore,SGP,2000,42,23793,5850000,East Asia & Pacific
+New Zealand,NZL,2000,52.1,13215,5120000,East Asia & Pacific
+Iceland,ISL,2000,75.4,30243,372000,Europe & Central Asia
+Malta,MLT,2000,28.6,9532,520000,Europe & Central Asia
+Cyprus,CYP,2000,13.1,13442,1210000,Europe & Central Asia
+United States,USA,2001,45.6,37243,331900000,North America
+Germany,DEU,2001,35.3,24328,83200000,Europe & Central Asia
+Japan,JPN,2001,42.3,39728,125800000,East Asia & Pacific
+United Kingdom,GBR,2001,30.5,27049,67800000,Europe & Central Asia
+France,FRA,2001,17.3,23297,67400000,Europe & Central Asia
+Canada,CAN,2001,55.2,24010,38200000,North America
+Australia,AUS,2001,52,23088,25700000,East Asia & Pacific
+South Korea,KOR,2001,48.5,12880,51780000,East Asia & Pacific
+Sweden,SWE,2001,50.3,30075,10350000,Europe & Central Asia
+Norway,NOR,2001,58.2,38974,5380000,Europe & Central Asia
+China,CHN,2001,2.8,1021,1412000000,East Asia & Pacific
+India,IND,2001,0.9,472,1380000000,South Asia
+Brazil,BRA,2001,5.6,3871,215000000,Latin America & Caribbean
+Russia,RUS,2001,4.7,1816,146000000,Europe & Central Asia
+Mexico,MEX,2001,7.6,6799,128900000,Latin America & Caribbean
+Indonesia,IDN,2001,1.9,913,273500000,East Asia & Pacific
+Turkey,TUR,2001,6.2,4324,84300000,Europe & Central Asia
+South Africa,ZAF,2001,10.4,3129,59300000,Sub-Saharan Africa
+Thailand,THA,2001,6.4,2097,69800000,East Asia & Pacific
+Malaysia,MYS,2001,26,4264,32400000,East Asia & Pacific
+Nigeria,NGA,2001,0,393,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2001,0.6,379,164700000,South Asia
+Pakistan,PAK,2001,0,501,225200000,South Asia
+Ethiopia,ETH,2001,0,132,118000000,Sub-Saharan Africa
+Kenya,KEN,2001,2,415,54000000,Sub-Saharan Africa
+Ghana,GHA,2001,1.6,280,32800000,Sub-Saharan Africa
+Uganda,UGA,2001,1,258,47100000,Sub-Saharan Africa
+Tanzania,TZA,2001,0,290,61500000,Sub-Saharan Africa
+Senegal,SEN,2001,0.7,461,17200000,Sub-Saharan Africa
+Cambodia,KHM,2001,0,307,16700000,East Asia & Pacific
+Argentina,ARG,2001,10.7,7966,45400000,Latin America & Caribbean
+Chile,CHL,2001,21.9,5252,19100000,Latin America & Caribbean
+Poland,POL,2001,11.4,4565,37900000,Europe & Central Asia
+Czech Republic,CZE,2001,17.8,5948,10700000,Europe & Central Asia
+Hungary,HUN,2001,19.8,4663,9750000,Europe & Central Asia
+Portugal,PRT,2001,22.4,11721,10300000,Europe & Central Asia
+Greece,GRC,2001,13.1,11927,10700000,Europe & Central Asia
+Croatia,HRV,2001,11.2,4674,3890000,Europe & Central Asia
+Estonia,EST,2001,34.8,4089,1330000,Europe & Central Asia
+Lithuania,LTU,2001,6.3,3188,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2001,5,9539,35000000,Middle East & North Africa
+UAE,ARE,2001,30.2,32278,9890000,Middle East & North Africa
+Kuwait,KWT,2001,11.1,19006,4270000,Middle East & North Africa
+Qatar,QAT,2001,23.3,28632,2880000,Middle East & North Africa
+Bahrain,BHR,2001,9,11876,1700000,Middle East & North Africa
+Singapore,SGP,2001,41.4,25340,5850000,East Asia & Pacific
+New Zealand,NZL,2001,53.9,14074,5120000,East Asia & Pacific
+Iceland,ISL,2001,74.6,30999,372000,Europe & Central Asia
+Malta,MLT,2001,29.4,9770,520000,Europe & Central Asia
+Cyprus,CYP,2001,14.2,13778,1210000,Europe & Central Asia
+United States,USA,2002,47.4,38174,331900000,North America
+Germany,DEU,2002,36.4,24937,83200000,Europe & Central Asia
+Japan,JPN,2002,42.9,42310,125800000,East Asia & Pacific
+United Kingdom,GBR,2002,33.3,27725,67800000,Europe & Central Asia
+France,FRA,2002,19.5,23880,67400000,Europe & Central Asia
+Canada,CAN,2002,57,24610,38200000,North America
+Australia,AUS,2002,52.7,24589,25700000,East Asia & Pacific
+South Korea,KOR,2002,50.3,13717,51780000,East Asia & Pacific
+Sweden,SWE,2002,52.8,30826,10350000,Europe & Central Asia
+Norway,NOR,2002,59.3,39948,5380000,Europe & Central Asia
+China,CHN,2002,3.1,1088,1412000000,East Asia & Pacific
+India,IND,2002,0.9,502,1380000000,South Asia
+Brazil,BRA,2002,5.3,4006,215000000,Latin America & Caribbean
+Russia,RUS,2002,6.1,1862,146000000,Europe & Central Asia
+Mexico,MEX,2002,8.7,7037,128900000,Latin America & Caribbean
+Indonesia,IDN,2002,1.4,972,273500000,East Asia & Pacific
+Turkey,TUR,2002,7.4,4433,84300000,Europe & Central Asia
+South Africa,ZAF,2002,11.3,3238,59300000,Sub-Saharan Africa
+Thailand,THA,2002,6.4,2233,69800000,East Asia & Pacific
+Malaysia,MYS,2002,26.4,4541,32400000,East Asia & Pacific
+Nigeria,NGA,2002,0.7,407,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2002,1,404,164700000,South Asia
+Pakistan,PAK,2002,0,533,225200000,South Asia
+Ethiopia,ETH,2002,0,137,118000000,Sub-Saharan Africa
+Kenya,KEN,2002,1.3,430,54000000,Sub-Saharan Africa
+Ghana,GHA,2002,0.5,290,32800000,Sub-Saharan Africa
+Uganda,UGA,2002,0.7,267,47100000,Sub-Saharan Africa
+Tanzania,TZA,2002,0,300,61500000,Sub-Saharan Africa
+Senegal,SEN,2002,1.3,477,17200000,Sub-Saharan Africa
+Cambodia,KHM,2002,0,327,16700000,East Asia & Pacific
+Argentina,ARG,2002,12.7,8245,45400000,Latin America & Caribbean
+Chile,CHL,2002,23.3,5435,19100000,Latin America & Caribbean
+Poland,POL,2002,12.4,4679,37900000,Europe & Central Asia
+Czech Republic,CZE,2002,17.9,6097,10700000,Europe & Central Asia
+Hungary,HUN,2002,21.1,4779,9750000,Europe & Central Asia
+Portugal,PRT,2002,22.3,12014,10300000,Europe & Central Asia
+Greece,GRC,2002,13.8,12225,10700000,Europe & Central Asia
+Croatia,HRV,2002,12.7,4791,3890000,Europe & Central Asia
+Estonia,EST,2002,37,4191,1330000,Europe & Central Asia
+Lithuania,LTU,2002,7.1,3267,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2002,6.1,9872,35000000,Middle East & North Africa
+UAE,ARE,2002,31,33407,9890000,Middle East & North Africa
+Kuwait,KWT,2002,12.4,19671,4270000,Middle East & North Africa
+Qatar,QAT,2002,25.2,29634,2880000,Middle East & North Africa
+Bahrain,BHR,2002,10.4,12291,1700000,Middle East & North Africa
+Singapore,SGP,2002,42.6,26987,5850000,East Asia & Pacific
+New Zealand,NZL,2002,54.7,14989,5120000,East Asia & Pacific
+Iceland,ISL,2002,75,31774,372000,Europe & Central Asia
+Malta,MLT,2002,30.2,10015,520000,Europe & Central Asia
+Cyprus,CYP,2002,14.4,14123,1210000,Europe & Central Asia
+United States,USA,2003,48.6,39129,331900000,North America
+Germany,DEU,2003,37.5,25560,83200000,Europe & Central Asia
+Japan,JPN,2003,43.3,45060,125800000,East Asia & Pacific
+United Kingdom,GBR,2003,34.8,28418,67800000,Europe & Central Asia
+France,FRA,2003,19.8,24477,67400000,Europe & Central Asia
+Canada,CAN,2003,56.8,25225,38200000,North America
+Australia,AUS,2003,54.6,26187,25700000,East Asia & Pacific
+South Korea,KOR,2003,52,14609,51780000,East Asia & Pacific
+Sweden,SWE,2003,52.1,31597,10350000,Europe & Central Asia
+Norway,NOR,2003,60.6,40947,5380000,Europe & Central Asia
+China,CHN,2003,4.2,1158,1412000000,East Asia & Pacific
+India,IND,2003,2.4,535,1380000000,South Asia
+Brazil,BRA,2003,6.4,4147,215000000,Latin America & Caribbean
+Russia,RUS,2003,7.7,1908,146000000,Europe & Central Asia
+Mexico,MEX,2003,9.5,7283,128900000,Latin America & Caribbean
+Indonesia,IDN,2003,2.7,1035,273500000,East Asia & Pacific
+Turkey,TUR,2003,7.7,4543,84300000,Europe & Central Asia
+South Africa,ZAF,2003,10.9,3352,59300000,Sub-Saharan Africa
+Thailand,THA,2003,8.9,2378,69800000,East Asia & Pacific
+Malaysia,MYS,2003,28.6,4837,32400000,East Asia & Pacific
+Nigeria,NGA,2003,1.2,421,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2003,0.9,430,164700000,South Asia
+Pakistan,PAK,2003,1.1,568,225200000,South Asia
+Ethiopia,ETH,2003,0.6,142,118000000,Sub-Saharan Africa
+Kenya,KEN,2003,3.4,445,54000000,Sub-Saharan Africa
+Ghana,GHA,2003,1.4,300,32800000,Sub-Saharan Africa
+Uganda,UGA,2003,0,276,47100000,Sub-Saharan Africa
+Tanzania,TZA,2003,0.8,310,61500000,Sub-Saharan Africa
+Senegal,SEN,2003,0.4,493,17200000,Sub-Saharan Africa
+Cambodia,KHM,2003,1.1,348,16700000,East Asia & Pacific
+Argentina,ARG,2003,14.4,8534,45400000,Latin America & Caribbean
+Chile,CHL,2003,24.2,5626,19100000,Latin America & Caribbean
+Poland,POL,2003,12.3,4796,37900000,Europe & Central Asia
+Czech Republic,CZE,2003,20.5,6249,10700000,Europe & Central Asia
+Hungary,HUN,2003,21.4,4899,9750000,Europe & Central Asia
+Portugal,PRT,2003,24.1,12314,10300000,Europe & Central Asia
+Greece,GRC,2003,13.8,12531,10700000,Europe & Central Asia
+Croatia,HRV,2003,13.9,4911,3890000,Europe & Central Asia
+Estonia,EST,2003,36.8,4296,1330000,Europe & Central Asia
+Lithuania,LTU,2003,9.3,3349,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2003,6.3,10218,35000000,Middle East & North Africa
+UAE,ARE,2003,33.5,34576,9890000,Middle East & North Africa
+Kuwait,KWT,2003,12.3,20359,4270000,Middle East & North Africa
+Qatar,QAT,2003,26.4,30672,2880000,Middle East & North Africa
+Bahrain,BHR,2003,11.1,12721,1700000,Middle East & North Africa
+Singapore,SGP,2003,45.5,28741,5850000,East Asia & Pacific
+New Zealand,NZL,2003,55.1,15963,5120000,East Asia & Pacific
+Iceland,ISL,2003,76.3,32568,372000,Europe & Central Asia
+Malta,MLT,2003,32.2,10265,520000,Europe & Central Asia
+Cyprus,CYP,2003,16,14476,1210000,Europe & Central Asia
+United States,USA,2004,48.5,40107,331900000,North America
+Germany,DEU,2004,39.7,26199,83200000,Europe & Central Asia
+Japan,JPN,2004,44.8,47989,125800000,East Asia & Pacific
+United Kingdom,GBR,2004,35,29129,67800000,Europe & Central Asia
+France,FRA,2004,22.2,25089,67400000,Europe & Central Asia
+Canada,CAN,2004,58.1,25856,38200000,North America
+Australia,AUS,2004,55.1,27889,25700000,East Asia & Pacific
+South Korea,KOR,2004,53.4,15559,51780000,East Asia & Pacific
+Sweden,SWE,2004,54.1,32387,10350000,Europe & Central Asia
+Norway,NOR,2004,62,41970,5380000,Europe & Central Asia
+China,CHN,2004,5,1234,1412000000,East Asia & Pacific
+India,IND,2004,1.7,570,1380000000,South Asia
+Brazil,BRA,2004,8.6,4292,215000000,Latin America & Caribbean
+Russia,RUS,2004,9.6,1956,146000000,Europe & Central Asia
+Mexico,MEX,2004,12.2,7538,128900000,Latin America & Caribbean
+Indonesia,IDN,2004,4.5,1103,273500000,East Asia & Pacific
+Turkey,TUR,2004,9.9,4657,84300000,Europe & Central Asia
+South Africa,ZAF,2004,13.2,3469,59300000,Sub-Saharan Africa
+Thailand,THA,2004,9.2,2533,69800000,East Asia & Pacific
+Malaysia,MYS,2004,29,5151,32400000,East Asia & Pacific
+Nigeria,NGA,2004,0.6,436,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2004,0,458,164700000,South Asia
+Pakistan,PAK,2004,0,605,225200000,South Asia
+Ethiopia,ETH,2004,1.1,147,118000000,Sub-Saharan Africa
+Kenya,KEN,2004,2.8,460,54000000,Sub-Saharan Africa
+Ghana,GHA,2004,1.1,311,32800000,Sub-Saharan Africa
+Uganda,UGA,2004,0.2,286,47100000,Sub-Saharan Africa
+Tanzania,TZA,2004,1.4,321,61500000,Sub-Saharan Africa
+Senegal,SEN,2004,1.4,511,17200000,Sub-Saharan Africa
+Cambodia,KHM,2004,0.6,371,16700000,East Asia & Pacific
+Argentina,ARG,2004,15.3,8832,45400000,Latin America & Caribbean
+Chile,CHL,2004,25.5,5823,19100000,Latin America & Caribbean
+Poland,POL,2004,14,4916,37900000,Europe & Central Asia
+Czech Republic,CZE,2004,21.6,6405,10700000,Europe & Central Asia
+Hungary,HUN,2004,22.3,5021,9750000,Europe & Central Asia
+Portugal,PRT,2004,25.1,12622,10300000,Europe & Central Asia
+Greece,GRC,2004,17,12844,10700000,Europe & Central Asia
+Croatia,HRV,2004,16.8,5033,3890000,Europe & Central Asia
+Estonia,EST,2004,40,4403,1330000,Europe & Central Asia
+Lithuania,LTU,2004,10.4,3433,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2004,9,10576,35000000,Middle East & North Africa
+UAE,ARE,2004,36.4,35787,9890000,Middle East & North Africa
+Kuwait,KWT,2004,15.4,21072,4270000,Middle East & North Africa
+Qatar,QAT,2004,27.6,31745,2880000,Middle East & North Africa
+Bahrain,BHR,2004,14,13167,1700000,Middle East & North Africa
+Singapore,SGP,2004,45.5,30609,5850000,East Asia & Pacific
+New Zealand,NZL,2004,56.2,17001,5120000,East Asia & Pacific
+Iceland,ISL,2004,76.8,33383,372000,Europe & Central Asia
+Malta,MLT,2004,34.6,10522,520000,Europe & Central Asia
+Cyprus,CYP,2004,18.3,14837,1210000,Europe & Central Asia
+United States,USA,2005,50.2,41110,331900000,North America
+Germany,DEU,2005,39.8,26854,83200000,Europe & Central Asia
+Japan,JPN,2005,46.2,51108,125800000,East Asia & Pacific
+United Kingdom,GBR,2005,37.2,29857,67800000,Europe & Central Asia
+France,FRA,2005,25,25716,67400000,Europe & Central Asia
+Canada,CAN,2005,58.7,26502,38200000,North America
+Australia,AUS,2005,55.3,29702,25700000,East Asia & Pacific
+South Korea,KOR,2005,54.2,16570,51780000,East Asia & Pacific
+Sweden,SWE,2005,56.5,33197,10350000,Europe & Central Asia
+Norway,NOR,2005,63.1,43020,5380000,Europe & Central Asia
+China,CHN,2005,8.3,1314,1412000000,East Asia & Pacific
+India,IND,2005,3.5,607,1380000000,South Asia
+Brazil,BRA,2005,11.2,4442,215000000,Latin America & Caribbean
+Russia,RUS,2005,11.5,2005,146000000,Europe & Central Asia
+Mexico,MEX,2005,12.6,7802,128900000,Latin America & Caribbean
+Indonesia,IDN,2005,4.6,1174,273500000,East Asia & Pacific
+Turkey,TUR,2005,11.8,4773,84300000,Europe & Central Asia
+South Africa,ZAF,2005,14,3590,59300000,Sub-Saharan Africa
+Thailand,THA,2005,11.4,2698,69800000,East Asia & Pacific
+Malaysia,MYS,2005,31.5,5486,32400000,East Asia & Pacific
+Nigeria,NGA,2005,1.7,451,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2005,1.4,488,164700000,South Asia
+Pakistan,PAK,2005,0,644,225200000,South Asia
+Ethiopia,ETH,2005,0.2,152,118000000,Sub-Saharan Africa
+Kenya,KEN,2005,5.2,476,54000000,Sub-Saharan Africa
+Ghana,GHA,2005,2.2,322,32800000,Sub-Saharan Africa
+Uganda,UGA,2005,0.9,296,47100000,Sub-Saharan Africa
+Tanzania,TZA,2005,1,333,61500000,Sub-Saharan Africa
+Senegal,SEN,2005,2.3,529,17200000,Sub-Saharan Africa
+Cambodia,KHM,2005,1.4,395,16700000,East Asia & Pacific
+Argentina,ARG,2005,18,9142,45400000,Latin America & Caribbean
+Chile,CHL,2005,28.5,6026,19100000,Latin America & Caribbean
+Poland,POL,2005,16.5,5039,37900000,Europe & Central Asia
+Czech Republic,CZE,2005,24.5,6566,10700000,Europe & Central Asia
+Hungary,HUN,2005,24,5147,9750000,Europe & Central Asia
+Portugal,PRT,2005,27.3,12938,10300000,Europe & Central Asia
+Greece,GRC,2005,18.6,13165,10700000,Europe & Central Asia
+Croatia,HRV,2005,18.5,5159,3890000,Europe & Central Asia
+Estonia,EST,2005,41.6,4513,1330000,Europe & Central Asia
+Lithuania,LTU,2005,12.6,3519,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2005,10.1,10946,35000000,Middle East & North Africa
+UAE,ARE,2005,37.5,37039,9890000,Middle East & North Africa
+Kuwait,KWT,2005,17.3,21809,4270000,Middle East & North Africa
+Qatar,QAT,2005,30.5,32856,2880000,Middle East & North Africa
+Bahrain,BHR,2005,16,13628,1700000,Middle East & North Africa
+Singapore,SGP,2005,48.4,32598,5850000,East Asia & Pacific
+New Zealand,NZL,2005,58.6,18106,5120000,East Asia & Pacific
+Iceland,ISL,2005,77.4,34217,372000,Europe & Central Asia
+Malta,MLT,2005,35.4,10785,520000,Europe & Central Asia
+Cyprus,CYP,2005,20.3,15208,1210000,Europe & Central Asia
+United States,USA,2006,51.6,42137,331900000,North America
+Germany,DEU,2006,42.2,27525,83200000,Europe & Central Asia
+Japan,JPN,2006,47.3,54430,125800000,East Asia & Pacific
+United Kingdom,GBR,2006,40.1,30603,67800000,Europe & Central Asia
+France,FRA,2006,27.5,26359,67400000,Europe & Central Asia
+Canada,CAN,2006,60.6,27165,38200000,North America
+Australia,AUS,2006,56.5,31633,25700000,East Asia & Pacific
+South Korea,KOR,2006,55.4,17647,51780000,East Asia & Pacific
+Sweden,SWE,2006,56.9,34027,10350000,Europe & Central Asia
+Norway,NOR,2006,64.6,44095,5380000,Europe & Central Asia
+China,CHN,2006,8.8,1399,1412000000,East Asia & Pacific
+India,IND,2006,3.3,646,1380000000,South Asia
+Brazil,BRA,2006,13.8,4597,215000000,Latin America & Caribbean
+Russia,RUS,2006,13.4,2055,146000000,Europe & Central Asia
+Mexico,MEX,2006,15.1,8075,128900000,Latin America & Caribbean
+Indonesia,IDN,2006,7.3,1250,273500000,East Asia & Pacific
+Turkey,TUR,2006,13.5,4893,84300000,Europe & Central Asia
+South Africa,ZAF,2006,17.9,3716,59300000,Sub-Saharan Africa
+Thailand,THA,2006,14.2,2873,69800000,East Asia & Pacific
+Malaysia,MYS,2006,33.8,5842,32400000,East Asia & Pacific
+Nigeria,NGA,2006,3.6,467,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2006,1.7,519,164700000,South Asia
+Pakistan,PAK,2006,2.1,686,225200000,South Asia
+Ethiopia,ETH,2006,0.7,157,118000000,Sub-Saharan Africa
+Kenya,KEN,2006,7.2,493,54000000,Sub-Saharan Africa
+Ghana,GHA,2006,3.2,333,32800000,Sub-Saharan Africa
+Uganda,UGA,2006,1,306,47100000,Sub-Saharan Africa
+Tanzania,TZA,2006,1.3,344,61500000,Sub-Saharan Africa
+Senegal,SEN,2006,4.6,547,17200000,Sub-Saharan Africa
+Cambodia,KHM,2006,3.7,420,16700000,East Asia & Pacific
+Argentina,ARG,2006,20.6,9462,45400000,Latin America & Caribbean
+Chile,CHL,2006,31.6,6237,19100000,Latin America & Caribbean
+Poland,POL,2006,19.2,5165,37900000,Europe & Central Asia
+Czech Republic,CZE,2006,25.6,6730,10700000,Europe & Central Asia
+Hungary,HUN,2006,27.4,5275,9750000,Europe & Central Asia
+Portugal,PRT,2006,28.5,13261,10300000,Europe & Central Asia
+Greece,GRC,2006,19.3,13494,10700000,Europe & Central Asia
+Croatia,HRV,2006,21,5288,3890000,Europe & Central Asia
+Estonia,EST,2006,42,4626,1330000,Europe & Central Asia
+Lithuania,LTU,2006,13.7,3607,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2006,13.5,11329,35000000,Middle East & North Africa
+UAE,ARE,2006,40.1,38336,9890000,Middle East & North Africa
+Kuwait,KWT,2006,21.1,22573,4270000,Middle East & North Africa
+Qatar,QAT,2006,33.1,34006,2880000,Middle East & North Africa
+Bahrain,BHR,2006,19.8,14104,1700000,Middle East & North Africa
+Singapore,SGP,2006,49.3,34717,5850000,East Asia & Pacific
+New Zealand,NZL,2006,58.8,19283,5120000,East Asia & Pacific
+Iceland,ISL,2006,77.6,35073,372000,Europe & Central Asia
+Malta,MLT,2006,37.2,11054,520000,Europe & Central Asia
+Cyprus,CYP,2006,23.5,15589,1210000,Europe & Central Asia
+United States,USA,2007,53.8,43191,331900000,North America
+Germany,DEU,2007,44.2,28213,83200000,Europe & Central Asia
+Japan,JPN,2007,48.8,57968,125800000,East Asia & Pacific
+United Kingdom,GBR,2007,43.5,31368,67800000,Europe & Central Asia
+France,FRA,2007,29.9,27018,67400000,Europe & Central Asia
+Canada,CAN,2007,63.4,27844,38200000,North America
+Australia,AUS,2007,59.3,33689,25700000,East Asia & Pacific
+South Korea,KOR,2007,58.5,18794,51780000,East Asia & Pacific
+Sweden,SWE,2007,58.3,34877,10350000,Europe & Central Asia
+Norway,NOR,2007,64.6,45197,5380000,Europe & Central Asia
+China,CHN,2007,13.1,1490,1412000000,East Asia & Pacific
+India,IND,2007,6.5,688,1380000000,South Asia
+Brazil,BRA,2007,16.9,4758,215000000,Latin America & Caribbean
+Russia,RUS,2007,16.6,2106,146000000,Europe & Central Asia
+Mexico,MEX,2007,18.4,8358,128900000,Latin America & Caribbean
+Indonesia,IDN,2007,9.6,1332,273500000,East Asia & Pacific
+Turkey,TUR,2007,15.6,5015,84300000,Europe & Central Asia
+South Africa,ZAF,2007,18.9,3846,59300000,Sub-Saharan Africa
+Thailand,THA,2007,15.7,3060,69800000,East Asia & Pacific
+Malaysia,MYS,2007,37.6,6222,32400000,East Asia & Pacific
+Nigeria,NGA,2007,5,483,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2007,2.5,553,164700000,South Asia
+Pakistan,PAK,2007,1.5,730,225200000,South Asia
+Ethiopia,ETH,2007,0.8,163,118000000,Sub-Saharan Africa
+Kenya,KEN,2007,10.7,510,54000000,Sub-Saharan Africa
+Ghana,GHA,2007,6.3,345,32800000,Sub-Saharan Africa
+Uganda,UGA,2007,1.5,317,47100000,Sub-Saharan Africa
+Tanzania,TZA,2007,1.9,356,61500000,Sub-Saharan Africa
+Senegal,SEN,2007,5.4,566,17200000,Sub-Saharan Africa
+Cambodia,KHM,2007,5.4,448,16700000,East Asia & Pacific
+Argentina,ARG,2007,24.1,9793,45400000,Latin America & Caribbean
+Chile,CHL,2007,34.6,6456,19100000,Latin America & Caribbean
+Poland,POL,2007,21.7,5294,37900000,Europe & Central Asia
+Czech Republic,CZE,2007,30.3,6898,10700000,Europe & Central Asia
+Hungary,HUN,2007,29.6,5407,9750000,Europe & Central Asia
+Portugal,PRT,2007,31.8,13593,10300000,Europe & Central Asia
+Greece,GRC,2007,22.6,13832,10700000,Europe & Central Asia
+Croatia,HRV,2007,24.3,5420,3890000,Europe & Central Asia
+Estonia,EST,2007,45.5,4742,1330000,Europe & Central Asia
+Lithuania,LTU,2007,17.6,3697,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2007,16.6,11725,35000000,Middle East & North Africa
+UAE,ARE,2007,42.3,39677,9890000,Middle East & North Africa
+Kuwait,KWT,2007,23.4,23363,4270000,Middle East & North Africa
+Qatar,QAT,2007,36.6,35196,2880000,Middle East & North Africa
+Bahrain,BHR,2007,23.8,14598,1700000,Middle East & North Africa
+Singapore,SGP,2007,50.8,36974,5850000,East Asia & Pacific
+New Zealand,NZL,2007,61.5,20536,5120000,East Asia & Pacific
+Iceland,ISL,2007,79.1,35949,372000,Europe & Central Asia
+Malta,MLT,2007,40.3,11331,520000,Europe & Central Asia
+Cyprus,CYP,2007,26.2,15978,1210000,Europe & Central Asia
+United States,USA,2008,56.6,44271,331900000,North America
+Germany,DEU,2008,47.1,28919,83200000,Europe & Central Asia
+Japan,JPN,2008,51.5,61736,125800000,East Asia & Pacific
+United Kingdom,GBR,2008,45.3,32152,67800000,Europe & Central Asia
+France,FRA,2008,33.9,27693,67400000,Europe & Central Asia
+Canada,CAN,2008,64.1,28540,38200000,North America
+Australia,AUS,2008,61.2,35879,25700000,East Asia & Pacific
+South Korea,KOR,2008,59.9,20016,51780000,East Asia & Pacific
+Sweden,SWE,2008,61.6,35749,10350000,Europe & Central Asia
+Norway,NOR,2008,67.8,46327,5380000,Europe & Central Asia
+China,CHN,2008,16.4,1587,1412000000,East Asia & Pacific
+India,IND,2008,8.9,733,1380000000,South Asia
+Brazil,BRA,2008,20.9,4925,215000000,Latin America & Caribbean
+Russia,RUS,2008,21,2159,146000000,Europe & Central Asia
+Mexico,MEX,2008,20.3,8650,128900000,Latin America & Caribbean
+Indonesia,IDN,2008,11.9,1418,273500000,East Asia & Pacific
+Turkey,TUR,2008,20.8,5140,84300000,Europe & Central Asia
+South Africa,ZAF,2008,22.9,3981,59300000,Sub-Saharan Africa
+Thailand,THA,2008,20.4,3259,69800000,East Asia & Pacific
+Malaysia,MYS,2008,40,6627,32400000,East Asia & Pacific
+Nigeria,NGA,2008,8,500,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2008,5.4,589,164700000,South Asia
+Pakistan,PAK,2008,3.4,778,225200000,South Asia
+Ethiopia,ETH,2008,1.6,169,118000000,Sub-Saharan Africa
+Kenya,KEN,2008,14.9,528,54000000,Sub-Saharan Africa
+Ghana,GHA,2008,8.6,357,32800000,Sub-Saharan Africa
+Uganda,UGA,2008,2.3,328,47100000,Sub-Saharan Africa
+Tanzania,TZA,2008,3.9,369,61500000,Sub-Saharan Africa
+Senegal,SEN,2008,8.9,586,17200000,Sub-Saharan Africa
+Cambodia,KHM,2008,8.3,477,16700000,East Asia & Pacific
+Argentina,ARG,2008,26.2,10135,45400000,Latin America & Caribbean
+Chile,CHL,2008,36.8,6681,19100000,Latin America & Caribbean
+Poland,POL,2008,26.1,5427,37900000,Europe & Central Asia
+Czech Republic,CZE,2008,32.7,7070,10700000,Europe & Central Asia
+Hungary,HUN,2008,32.8,5543,9750000,Europe & Central Asia
+Portugal,PRT,2008,34.8,13932,10300000,Europe & Central Asia
+Greece,GRC,2008,25.7,14177,10700000,Europe & Central Asia
+Croatia,HRV,2008,26.6,5556,3890000,Europe & Central Asia
+Estonia,EST,2008,48,4860,1330000,Europe & Central Asia
+Lithuania,LTU,2008,21.2,3789,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2008,22.7,12136,35000000,Middle East & North Africa
+UAE,ARE,2008,46,41066,9890000,Middle East & North Africa
+Kuwait,KWT,2008,29,24181,4270000,Middle East & North Africa
+Qatar,QAT,2008,40.7,36428,2880000,Middle East & North Africa
+Bahrain,BHR,2008,28.2,15109,1700000,Middle East & North Africa
+Singapore,SGP,2008,53.8,39377,5850000,East Asia & Pacific
+New Zealand,NZL,2008,63.8,21871,5120000,East Asia & Pacific
+Iceland,ISL,2008,80.8,36848,372000,Europe & Central Asia
+Malta,MLT,2008,42.3,11614,520000,Europe & Central Asia
+Cyprus,CYP,2008,29.1,16378,1210000,Europe & Central Asia
+United States,USA,2009,59.3,45377,331900000,North America
+Germany,DEU,2009,49.6,29642,83200000,Europe & Central Asia
+Japan,JPN,2009,53.4,65749,125800000,East Asia & Pacific
+United Kingdom,GBR,2009,49.8,32956,67800000,Europe & Central Asia
+France,FRA,2009,37,28385,67400000,Europe & Central Asia
+Canada,CAN,2009,66.9,29253,38200000,North America
+Australia,AUS,2009,61.8,38211,25700000,East Asia & Pacific
+South Korea,KOR,2009,62.5,21317,51780000,East Asia & Pacific
+Sweden,SWE,2009,62,36643,10350000,Europe & Central Asia
+Norway,NOR,2009,69.9,47486,5380000,Europe & Central Asia
+China,CHN,2009,21.3,1690,1412000000,East Asia & Pacific
+India,IND,2009,10.2,781,1380000000,South Asia
+Brazil,BRA,2009,24.8,5097,215000000,Latin America & Caribbean
+Russia,RUS,2009,26.7,2213,146000000,Europe & Central Asia
+Mexico,MEX,2009,25.4,8953,128900000,Latin America & Caribbean
+Indonesia,IDN,2009,15.7,1511,273500000,East Asia & Pacific
+Turkey,TUR,2009,23.6,5269,84300000,Europe & Central Asia
+South Africa,ZAF,2009,26.7,4120,59300000,Sub-Saharan Africa
+Thailand,THA,2009,25.1,3471,69800000,East Asia & Pacific
+Malaysia,MYS,2009,44,7057,32400000,East Asia & Pacific
+Nigeria,NGA,2009,10.3,518,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2009,7.1,627,164700000,South Asia
+Pakistan,PAK,2009,4.6,828,225200000,South Asia
+Ethiopia,ETH,2009,3.4,174,118000000,Sub-Saharan Africa
+Kenya,KEN,2009,19.9,547,54000000,Sub-Saharan Africa
+Ghana,GHA,2009,12.4,369,32800000,Sub-Saharan Africa
+Uganda,UGA,2009,5.2,339,47100000,Sub-Saharan Africa
+Tanzania,TZA,2009,4.9,382,61500000,Sub-Saharan Africa
+Senegal,SEN,2009,11.6,606,17200000,Sub-Saharan Africa
+Cambodia,KHM,2009,11,508,16700000,East Asia & Pacific
+Argentina,ARG,2009,30.5,10490,45400000,Latin America & Caribbean
+Chile,CHL,2009,40.5,6915,19100000,Latin America & Caribbean
+Poland,POL,2009,31,5562,37900000,Europe & Central Asia
+Czech Republic,CZE,2009,37.2,7247,10700000,Europe & Central Asia
+Hungary,HUN,2009,36.6,5681,9750000,Europe & Central Asia
+Portugal,PRT,2009,37.2,14281,10300000,Europe & Central Asia
+Greece,GRC,2009,28.3,14532,10700000,Europe & Central Asia
+Croatia,HRV,2009,29.9,5695,3890000,Europe & Central Asia
+Estonia,EST,2009,51.5,4982,1330000,Europe & Central Asia
+Lithuania,LTU,2009,27.1,3884,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2009,26.7,12560,35000000,Middle East & North Africa
+UAE,ARE,2009,50.4,42503,9890000,Middle East & North Africa
+Kuwait,KWT,2009,34.5,25027,4270000,Middle East & North Africa
+Qatar,QAT,2009,45.4,37703,2880000,Middle East & North Africa
+Bahrain,BHR,2009,32.7,15638,1700000,Middle East & North Africa
+Singapore,SGP,2009,55.2,41937,5850000,East Asia & Pacific
+New Zealand,NZL,2009,63.7,23292,5120000,East Asia & Pacific
+Iceland,ISL,2009,80.3,37769,372000,Europe & Central Asia
+Malta,MLT,2009,45.7,11904,520000,Europe & Central Asia
+Cyprus,CYP,2009,32.7,16787,1210000,Europe & Central Asia
+United States,USA,2010,61.7,46512,331900000,North America
+Germany,DEU,2010,53,30383,83200000,Europe & Central Asia
+Japan,JPN,2010,56.3,70023,125800000,East Asia & Pacific
+United Kingdom,GBR,2010,52.1,33780,67800000,Europe & Central Asia
+France,FRA,2010,41.6,29095,67400000,Europe & Central Asia
+Canada,CAN,2010,67.9,29985,38200000,North America
+Australia,AUS,2010,63.6,40694,25700000,East Asia & Pacific
+South Korea,KOR,2010,64.7,22702,51780000,East Asia & Pacific
+Sweden,SWE,2010,65.2,37559,10350000,Europe & Central Asia
+Norway,NOR,2010,71.8,48673,5380000,Europe & Central Asia
+China,CHN,2010,26,1800,1412000000,East Asia & Pacific
+India,IND,2010,13.5,832,1380000000,South Asia
+Brazil,BRA,2010,30.1,5276,215000000,Latin America & Caribbean
+Russia,RUS,2010,31.1,2268,146000000,Europe & Central Asia
+Mexico,MEX,2010,28.3,9266,128900000,Latin America & Caribbean
+Indonesia,IDN,2010,20.9,1609,273500000,East Asia & Pacific
+Turkey,TUR,2010,28.5,5401,84300000,Europe & Central Asia
+South Africa,ZAF,2010,29,4264,59300000,Sub-Saharan Africa
+Thailand,THA,2010,29.3,3696,69800000,East Asia & Pacific
+Malaysia,MYS,2010,46.4,7516,32400000,East Asia & Pacific
+Nigeria,NGA,2010,14.7,536,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2010,11,668,164700000,South Asia
+Pakistan,PAK,2010,6.1,882,225200000,South Asia
+Ethiopia,ETH,2010,5.1,181,118000000,Sub-Saharan Africa
+Kenya,KEN,2010,26,566,54000000,Sub-Saharan Africa
+Ghana,GHA,2010,16,382,32800000,Sub-Saharan Africa
+Uganda,UGA,2010,7.1,351,47100000,Sub-Saharan Africa
+Tanzania,TZA,2010,7,395,61500000,Sub-Saharan Africa
+Senegal,SEN,2010,16.1,628,17200000,Sub-Saharan Africa
+Cambodia,KHM,2010,16.8,541,16700000,East Asia & Pacific
+Argentina,ARG,2010,35.7,10857,45400000,Latin America & Caribbean
+Chile,CHL,2010,43.2,7157,19100000,Latin America & Caribbean
+Poland,POL,2010,34.4,5701,37900000,Europe & Central Asia
+Czech Republic,CZE,2010,41,7428,10700000,Europe & Central Asia
+Hungary,HUN,2010,39.1,5823,9750000,Europe & Central Asia
+Portugal,PRT,2010,39.6,14638,10300000,Europe & Central Asia
+Greece,GRC,2010,32.1,14895,10700000,Europe & Central Asia
+Croatia,HRV,2010,36,5837,3890000,Europe & Central Asia
+Estonia,EST,2010,54.3,5106,1330000,Europe & Central Asia
+Lithuania,LTU,2010,32.3,3981,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2010,33.4,13000,35000000,Middle East & North Africa
+UAE,ARE,2010,52.8,43991,9890000,Middle East & North Africa
+Kuwait,KWT,2010,39,25903,4270000,Middle East & North Africa
+Qatar,QAT,2010,50,39023,2880000,Middle East & North Africa
+Bahrain,BHR,2010,38.7,16185,1700000,Middle East & North Africa
+Singapore,SGP,2010,57.2,44663,5850000,East Asia & Pacific
+New Zealand,NZL,2010,65.7,24806,5120000,East Asia & Pacific
+Iceland,ISL,2010,81.7,38714,372000,Europe & Central Asia
+Malta,MLT,2010,48.4,12202,520000,Europe & Central Asia
+Cyprus,CYP,2010,36.7,17207,1210000,Europe & Central Asia
+United States,USA,2011,63.8,47675,331900000,North America
+Germany,DEU,2011,57.5,31142,83200000,Europe & Central Asia
+Japan,JPN,2011,58.4,74574,125800000,East Asia & Pacific
+United Kingdom,GBR,2011,56.6,34625,67800000,Europe & Central Asia
+France,FRA,2011,46,29822,67400000,Europe & Central Asia
+Canada,CAN,2011,70.8,30734,38200000,North America
+Australia,AUS,2011,66.4,43340,25700000,East Asia & Pacific
+South Korea,KOR,2011,67.9,24178,51780000,East Asia & Pacific
+Sweden,SWE,2011,66.8,38498,10350000,Europe & Central Asia
+Norway,NOR,2011,72.2,49889,5380000,Europe & Central Asia
+China,CHN,2011,31.9,1917,1412000000,East Asia & Pacific
+India,IND,2011,18.4,886,1380000000,South Asia
+Brazil,BRA,2011,35.2,5460,215000000,Latin America & Caribbean
+Russia,RUS,2011,37,2325,146000000,Europe & Central Asia
+Mexico,MEX,2011,32.5,9591,128900000,Latin America & Caribbean
+Indonesia,IDN,2011,27.6,1713,273500000,East Asia & Pacific
+Turkey,TUR,2011,32.8,5536,84300000,Europe & Central Asia
+South Africa,ZAF,2011,32.8,4413,59300000,Sub-Saharan Africa
+Thailand,THA,2011,34.7,3936,69800000,East Asia & Pacific
+Malaysia,MYS,2011,50.9,8005,32400000,East Asia & Pacific
+Nigeria,NGA,2011,19.1,555,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2011,15.1,712,164700000,South Asia
+Pakistan,PAK,2011,7.4,940,225200000,South Asia
+Ethiopia,ETH,2011,7.9,187,118000000,Sub-Saharan Africa
+Kenya,KEN,2011,34.2,585,54000000,Sub-Saharan Africa
+Ghana,GHA,2011,21.8,396,32800000,Sub-Saharan Africa
+Uganda,UGA,2011,10.1,364,47100000,Sub-Saharan Africa
+Tanzania,TZA,2011,10.2,409,61500000,Sub-Saharan Africa
+Senegal,SEN,2011,23,650,17200000,Sub-Saharan Africa
+Cambodia,KHM,2011,23.6,576,16700000,East Asia & Pacific
+Argentina,ARG,2011,40.7,11237,45400000,Latin America & Caribbean
+Chile,CHL,2011,48,7408,19100000,Latin America & Caribbean
+Poland,POL,2011,39.8,5844,37900000,Europe & Central Asia
+Czech Republic,CZE,2011,44.8,7614,10700000,Europe & Central Asia
+Hungary,HUN,2011,42.7,5969,9750000,Europe & Central Asia
+Portugal,PRT,2011,44.1,15004,10300000,Europe & Central Asia
+Greece,GRC,2011,36.6,15267,10700000,Europe & Central Asia
+Croatia,HRV,2011,39,5983,3890000,Europe & Central Asia
+Estonia,EST,2011,56.5,5234,1330000,Europe & Central Asia
+Lithuania,LTU,2011,36.2,4081,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2011,42.2,13455,35000000,Middle East & North Africa
+UAE,ARE,2011,57.2,45531,9890000,Middle East & North Africa
+Kuwait,KWT,2011,46.1,26809,4270000,Middle East & North Africa
+Qatar,QAT,2011,53.9,40389,2880000,Middle East & North Africa
+Bahrain,BHR,2011,46,16752,1700000,Middle East & North Africa
+Singapore,SGP,2011,59.7,47566,5850000,East Asia & Pacific
+New Zealand,NZL,2011,68.7,26419,5120000,East Asia & Pacific
+Iceland,ISL,2011,83.4,39681,372000,Europe & Central Asia
+Malta,MLT,2011,51.3,12507,520000,Europe & Central Asia
+Cyprus,CYP,2011,42.1,17637,1210000,Europe & Central Asia
+United States,USA,2012,67.2,48867,331900000,North America
+Germany,DEU,2012,58.9,31921,83200000,Europe & Central Asia
+Japan,JPN,2012,59.5,79422,125800000,East Asia & Pacific
+United Kingdom,GBR,2012,60,35490,67800000,Europe & Central Asia
+France,FRA,2012,49.7,30568,67400000,Europe & Central Asia
+Canada,CAN,2012,71.9,31503,38200000,North America
+Australia,AUS,2012,68.1,46157,25700000,East Asia & Pacific
+South Korea,KOR,2012,69.7,25749,51780000,East Asia & Pacific
+Sweden,SWE,2012,70.1,39460,10350000,Europe & Central Asia
+Norway,NOR,2012,73.7,51137,5380000,Europe & Central Asia
+China,CHN,2012,37,2042,1412000000,East Asia & Pacific
+India,IND,2012,22.8,943,1380000000,South Asia
+Brazil,BRA,2012,41.3,5651,215000000,Latin America & Caribbean
+Russia,RUS,2012,43.6,2383,146000000,Europe & Central Asia
+Mexico,MEX,2012,37.6,9926,128900000,Latin America & Caribbean
+Indonesia,IDN,2012,31.9,1825,273500000,East Asia & Pacific
+Turkey,TUR,2012,38.4,5674,84300000,Europe & Central Asia
+South Africa,ZAF,2012,37.7,4568,59300000,Sub-Saharan Africa
+Thailand,THA,2012,41.5,4192,69800000,East Asia & Pacific
+Malaysia,MYS,2012,56.1,8525,32400000,East Asia & Pacific
+Nigeria,NGA,2012,25.3,574,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2012,19.7,758,164700000,South Asia
+Pakistan,PAK,2012,10.6,1001,225200000,South Asia
+Ethiopia,ETH,2012,10.7,193,118000000,Sub-Saharan Africa
+Kenya,KEN,2012,44.3,606,54000000,Sub-Saharan Africa
+Ghana,GHA,2012,28.5,409,32800000,Sub-Saharan Africa
+Uganda,UGA,2012,13.9,376,47100000,Sub-Saharan Africa
+Tanzania,TZA,2012,11.8,423,61500000,Sub-Saharan Africa
+Senegal,SEN,2012,29.7,672,17200000,Sub-Saharan Africa
+Cambodia,KHM,2012,29.6,613,16700000,East Asia & Pacific
+Argentina,ARG,2012,45.3,11631,45400000,Latin America & Caribbean
+Chile,CHL,2012,51.4,7667,19100000,Latin America & Caribbean
+Poland,POL,2012,44.8,5990,37900000,Europe & Central Asia
+Czech Republic,CZE,2012,50.4,7804,10700000,Europe & Central Asia
+Hungary,HUN,2012,47.5,6118,9750000,Europe & Central Asia
+Portugal,PRT,2012,47.2,15379,10300000,Europe & Central Asia
+Greece,GRC,2012,41.4,15649,10700000,Europe & Central Asia
+Croatia,HRV,2012,43.8,6133,3890000,Europe & Central Asia
+Estonia,EST,2012,59.4,5365,1330000,Europe & Central Asia
+Lithuania,LTU,2012,43.3,4183,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2012,49.7,13926,35000000,Middle East & North Africa
+UAE,ARE,2012,61.2,47124,9890000,Middle East & North Africa
+Kuwait,KWT,2012,53,27748,4270000,Middle East & North Africa
+Qatar,QAT,2012,58.1,41802,2880000,Middle East & North Africa
+Bahrain,BHR,2012,53.2,17338,1700000,Middle East & North Africa
+Singapore,SGP,2012,61.6,50658,5850000,East Asia & Pacific
+New Zealand,NZL,2012,70.2,28136,5120000,East Asia & Pacific
+Iceland,ISL,2012,83.6,40673,372000,Europe & Central Asia
+Malta,MLT,2012,55,12819,520000,Europe & Central Asia
+Cyprus,CYP,2012,47.4,18078,1210000,Europe & Central Asia
+United States,USA,2013,70.9,50088,331900000,North America
+Germany,DEU,2013,62.5,32719,83200000,Europe & Central Asia
+Japan,JPN,2013,62.9,84584,125800000,East Asia & Pacific
+United Kingdom,GBR,2013,65.1,36378,67800000,Europe & Central Asia
+France,FRA,2013,54.9,31332,67400000,Europe & Central Asia
+Canada,CAN,2013,73.2,32290,38200000,North America
+Australia,AUS,2013,68.4,49157,25700000,East Asia & Pacific
+South Korea,KOR,2013,72.7,27423,51780000,East Asia & Pacific
+Sweden,SWE,2013,71.2,40447,10350000,Europe & Central Asia
+Norway,NOR,2013,76.8,52415,5380000,Europe & Central Asia
+China,CHN,2013,44.9,2175,1412000000,East Asia & Pacific
+India,IND,2013,26.4,1004,1380000000,South Asia
+Brazil,BRA,2013,49.1,5849,215000000,Latin America & Caribbean
+Russia,RUS,2013,50.5,2443,146000000,Europe & Central Asia
+Mexico,MEX,2013,41.3,10274,128900000,Latin America & Caribbean
+Indonesia,IDN,2013,38.8,1943,273500000,East Asia & Pacific
+Turkey,TUR,2013,41.5,5816,84300000,Europe & Central Asia
+South Africa,ZAF,2013,41.9,4728,59300000,Sub-Saharan Africa
+Thailand,THA,2013,47.3,4465,69800000,East Asia & Pacific
+Malaysia,MYS,2013,59.5,9079,32400000,East Asia & Pacific
+Nigeria,NGA,2013,31.1,594,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2013,23.8,807,164700000,South Asia
+Pakistan,PAK,2013,14.2,1066,225200000,South Asia
+Ethiopia,ETH,2013,14.5,200,118000000,Sub-Saharan Africa
+Kenya,KEN,2013,53.6,627,54000000,Sub-Saharan Africa
+Ghana,GHA,2013,35.1,424,32800000,Sub-Saharan Africa
+Uganda,UGA,2013,16.6,389,47100000,Sub-Saharan Africa
+Tanzania,TZA,2013,16.5,438,61500000,Sub-Saharan Africa
+Senegal,SEN,2013,36.3,696,17200000,Sub-Saharan Africa
+Cambodia,KHM,2013,37.2,653,16700000,East Asia & Pacific
+Argentina,ARG,2013,50.2,12038,45400000,Latin America & Caribbean
+Chile,CHL,2013,55.6,7936,19100000,Latin America & Caribbean
+Poland,POL,2013,50.6,6140,37900000,Europe & Central Asia
+Czech Republic,CZE,2013,55.9,7999,10700000,Europe & Central Asia
+Hungary,HUN,2013,51.4,6271,9750000,Europe & Central Asia
+Portugal,PRT,2013,50.5,15763,10300000,Europe & Central Asia
+Greece,GRC,2013,45,16040,10700000,Europe & Central Asia
+Croatia,HRV,2013,49.5,6286,3890000,Europe & Central Asia
+Estonia,EST,2013,62.9,5499,1330000,Europe & Central Asia
+Lithuania,LTU,2013,49.4,4287,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2013,56,14413,35000000,Middle East & North Africa
+UAE,ARE,2013,65.8,48774,9890000,Middle East & North Africa
+Kuwait,KWT,2013,60.3,28719,4270000,Middle East & North Africa
+Qatar,QAT,2013,64.5,43265,2880000,Middle East & North Africa
+Bahrain,BHR,2013,59.4,17945,1700000,Middle East & North Africa
+Singapore,SGP,2013,65.2,53950,5850000,East Asia & Pacific
+New Zealand,NZL,2013,72.2,29965,5120000,East Asia & Pacific
+Iceland,ISL,2013,84.3,41690,372000,Europe & Central Asia
+Malta,MLT,2013,58,13140,520000,Europe & Central Asia
+Cyprus,CYP,2013,51.5,18530,1210000,Europe & Central Asia
+United States,USA,2014,74.1,51340,331900000,North America
+Germany,DEU,2014,65.6,33537,83200000,Europe & Central Asia
+Japan,JPN,2014,65.4,90082,125800000,East Asia & Pacific
+United Kingdom,GBR,2014,69.6,37287,67800000,Europe & Central Asia
+France,FRA,2014,58.4,32115,67400000,Europe & Central Asia
+Canada,CAN,2014,75.1,33097,38200000,North America
+Australia,AUS,2014,70.8,52352,25700000,East Asia & Pacific
+South Korea,KOR,2014,76.6,29205,51780000,East Asia & Pacific
+Sweden,SWE,2014,73.8,41458,10350000,Europe & Central Asia
+Norway,NOR,2014,79.1,53726,5380000,Europe & Central Asia
+China,CHN,2014,48.9,2316,1412000000,East Asia & Pacific
+India,IND,2014,31.8,1070,1380000000,South Asia
+Brazil,BRA,2014,54.5,6054,215000000,Latin America & Caribbean
+Russia,RUS,2014,55.4,2504,146000000,Europe & Central Asia
+Mexico,MEX,2014,46.3,10633,128900000,Latin America & Caribbean
+Indonesia,IDN,2014,44.7,2070,273500000,East Asia & Pacific
+Turkey,TUR,2014,47.7,5961,84300000,Europe & Central Asia
+South Africa,ZAF,2014,44.8,4893,59300000,Sub-Saharan Africa
+Thailand,THA,2014,51.9,4755,69800000,East Asia & Pacific
+Malaysia,MYS,2014,63.9,9669,32400000,East Asia & Pacific
+Nigeria,NGA,2014,35.8,615,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2014,27.3,860,164700000,South Asia
+Pakistan,PAK,2014,16,1135,225200000,South Asia
+Ethiopia,ETH,2014,15.8,207,118000000,Sub-Saharan Africa
+Kenya,KEN,2014,60.2,649,54000000,Sub-Saharan Africa
+Ghana,GHA,2014,41.9,439,32800000,Sub-Saharan Africa
+Uganda,UGA,2014,18.3,403,47100000,Sub-Saharan Africa
+Tanzania,TZA,2014,18.8,453,61500000,Sub-Saharan Africa
+Senegal,SEN,2014,41.6,720,17200000,Sub-Saharan Africa
+Cambodia,KHM,2014,44,695,16700000,East Asia & Pacific
+Argentina,ARG,2014,55.8,12459,45400000,Latin America & Caribbean
+Chile,CHL,2014,59.3,8213,19100000,Latin America & Caribbean
+Poland,POL,2014,55.8,6293,37900000,Europe & Central Asia
+Czech Republic,CZE,2014,59.9,8199,10700000,Europe & Central Asia
+Hungary,HUN,2014,54.4,6428,9750000,Europe & Central Asia
+Portugal,PRT,2014,52.9,16157,10300000,Europe & Central Asia
+Greece,GRC,2014,48.3,16441,10700000,Europe & Central Asia
+Croatia,HRV,2014,53.4,6443,3890000,Europe & Central Asia
+Estonia,EST,2014,66,5636,1330000,Europe & Central Asia
+Lithuania,LTU,2014,54.2,4394,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2014,62.9,14918,35000000,Middle East & North Africa
+UAE,ARE,2014,68.7,50481,9890000,Middle East & North Africa
+Kuwait,KWT,2014,66.3,29724,4270000,Middle East & North Africa
+Qatar,QAT,2014,68.4,44780,2880000,Middle East & North Africa
+Bahrain,BHR,2014,65.1,18573,1700000,Middle East & North Africa
+Singapore,SGP,2014,65.9,57457,5850000,East Asia & Pacific
+New Zealand,NZL,2014,75.1,31913,5120000,East Asia & Pacific
+Iceland,ISL,2014,85.8,42733,372000,Europe & Central Asia
+Malta,MLT,2014,61.6,13468,520000,Europe & Central Asia
+Cyprus,CYP,2014,57.6,18993,1210000,Europe & Central Asia
+United States,USA,2015,76.8,52624,331900000,North America
+Germany,DEU,2015,68.8,34375,83200000,Europe & Central Asia
+Japan,JPN,2015,66.9,95937,125800000,East Asia & Pacific
+United Kingdom,GBR,2015,72.3,38219,67800000,Europe & Central Asia
+France,FRA,2015,62.4,32918,67400000,Europe & Central Asia
+Canada,CAN,2015,77.3,33925,38200000,North America
+Australia,AUS,2015,72.4,55755,25700000,East Asia & Pacific
+South Korea,KOR,2015,78.2,31104,51780000,East Asia & Pacific
+Sweden,SWE,2015,75.1,42495,10350000,Europe & Central Asia
+Norway,NOR,2015,81.2,55069,5380000,Europe & Central Asia
+China,CHN,2015,55.1,2466,1412000000,East Asia & Pacific
+India,IND,2015,33.8,1139,1380000000,South Asia
+Brazil,BRA,2015,59.4,6266,215000000,Latin America & Caribbean
+Russia,RUS,2015,60.4,2566,146000000,Europe & Central Asia
+Mexico,MEX,2015,49.6,11005,128900000,Latin America & Caribbean
+Indonesia,IDN,2015,48.9,2204,273500000,East Asia & Pacific
+Turkey,TUR,2015,50.7,6110,84300000,Europe & Central Asia
+South Africa,ZAF,2015,49,5065,59300000,Sub-Saharan Africa
+Thailand,THA,2015,56.5,5064,69800000,East Asia & Pacific
+Malaysia,MYS,2015,68.2,10298,32400000,East Asia & Pacific
+Nigeria,NGA,2015,40.2,637,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2015,31.7,916,164700000,South Asia
+Pakistan,PAK,2015,17.7,1209,225200000,South Asia
+Ethiopia,ETH,2015,17.3,214,118000000,Sub-Saharan Africa
+Kenya,KEN,2015,67.7,672,54000000,Sub-Saharan Africa
+Ghana,GHA,2015,46.1,454,32800000,Sub-Saharan Africa
+Uganda,UGA,2015,21.4,417,47100000,Sub-Saharan Africa
+Tanzania,TZA,2015,20.1,469,61500000,Sub-Saharan Africa
+Senegal,SEN,2015,47.8,746,17200000,Sub-Saharan Africa
+Cambodia,KHM,2015,48.3,741,16700000,East Asia & Pacific
+Argentina,ARG,2015,59,12895,45400000,Latin America & Caribbean
+Chile,CHL,2015,64,8501,19100000,Latin America & Caribbean
+Poland,POL,2015,61.4,6451,37900000,Europe & Central Asia
+Czech Republic,CZE,2015,63.4,8404,10700000,Europe & Central Asia
+Hungary,HUN,2015,58,6588,9750000,Europe & Central Asia
+Portugal,PRT,2015,57.7,16561,10300000,Europe & Central Asia
+Greece,GRC,2015,52.8,16852,10700000,Europe & Central Asia
+Croatia,HRV,2015,57.9,6604,3890000,Europe & Central Asia
+Estonia,EST,2015,68.7,5777,1330000,Europe & Central Asia
+Lithuania,LTU,2015,58.9,4504,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2015,70.9,15440,35000000,Middle East & North Africa
+UAE,ARE,2015,72.4,52247,9890000,Middle East & North Africa
+Kuwait,KWT,2015,72,30764,4270000,Middle East & North Africa
+Qatar,QAT,2015,73.6,46347,2880000,Middle East & North Africa
+Bahrain,BHR,2015,72.7,19223,1700000,Middle East & North Africa
+Singapore,SGP,2015,69.3,61192,5850000,East Asia & Pacific
+New Zealand,NZL,2015,76.5,33987,5120000,East Asia & Pacific
+Iceland,ISL,2015,85.4,43801,372000,Europe & Central Asia
+Malta,MLT,2015,64.6,13805,520000,Europe & Central Asia
+Cyprus,CYP,2015,61.3,19468,1210000,Europe & Central Asia
+United States,USA,2016,78.3,53940,331900000,North America
+Germany,DEU,2016,71.9,35235,83200000,Europe & Central Asia
+Japan,JPN,2016,69.2,102173,125800000,East Asia & Pacific
+United Kingdom,GBR,2016,75.9,39175,67800000,Europe & Central Asia
+France,FRA,2016,67.8,33741,67400000,Europe & Central Asia
+Canada,CAN,2016,80.4,34773,38200000,North America
+Australia,AUS,2016,74.1,59379,25700000,East Asia & Pacific
+South Korea,KOR,2016,79.6,33126,51780000,East Asia & Pacific
+Sweden,SWE,2016,77.6,43557,10350000,Europe & Central Asia
+Norway,NOR,2016,82.6,56445,5380000,Europe & Central Asia
+China,CHN,2016,59.7,2627,1412000000,East Asia & Pacific
+India,IND,2016,37.2,1213,1380000000,South Asia
+Brazil,BRA,2016,64,6485,215000000,Latin America & Caribbean
+Russia,RUS,2016,65.2,2631,146000000,Europe & Central Asia
+Mexico,MEX,2016,53.2,11391,128900000,Latin America & Caribbean
+Indonesia,IDN,2016,53,2347,273500000,East Asia & Pacific
+Turkey,TUR,2016,54.9,6263,84300000,Europe & Central Asia
+South Africa,ZAF,2016,53.6,5242,59300000,Sub-Saharan Africa
+Thailand,THA,2016,61.9,5393,69800000,East Asia & Pacific
+Malaysia,MYS,2016,71.6,10967,32400000,East Asia & Pacific
+Nigeria,NGA,2016,45.1,659,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2016,33.8,975,164700000,South Asia
+Pakistan,PAK,2016,19.7,1287,225200000,South Asia
+Ethiopia,ETH,2016,19.7,222,118000000,Sub-Saharan Africa
+Kenya,KEN,2016,74.2,695,54000000,Sub-Saharan Africa
+Ghana,GHA,2016,49.6,470,32800000,Sub-Saharan Africa
+Uganda,UGA,2016,22.3,432,47100000,Sub-Saharan Africa
+Tanzania,TZA,2016,23,486,61500000,Sub-Saharan Africa
+Senegal,SEN,2016,50.3,772,17200000,Sub-Saharan Africa
+Cambodia,KHM,2016,52.5,789,16700000,East Asia & Pacific
+Argentina,ARG,2016,64.5,13346,45400000,Latin America & Caribbean
+Chile,CHL,2016,66.6,8798,19100000,Latin America & Caribbean
+Poland,POL,2016,65.4,6612,37900000,Europe & Central Asia
+Czech Republic,CZE,2016,67.8,8615,10700000,Europe & Central Asia
+Hungary,HUN,2016,62.2,6753,9750000,Europe & Central Asia
+Portugal,PRT,2016,59.2,16975,10300000,Europe & Central Asia
+Greece,GRC,2016,56.8,17274,10700000,Europe & Central Asia
+Croatia,HRV,2016,62.4,6769,3890000,Europe & Central Asia
+Estonia,EST,2016,71.9,5922,1330000,Europe & Central Asia
+Lithuania,LTU,2016,63.9,4617,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2016,76,15980,35000000,Middle East & North Africa
+UAE,ARE,2016,76.6,54076,9890000,Middle East & North Africa
+Kuwait,KWT,2016,75.7,31841,4270000,Middle East & North Africa
+Qatar,QAT,2016,77.5,47969,2880000,Middle East & North Africa
+Bahrain,BHR,2016,76.6,19896,1700000,Middle East & North Africa
+Singapore,SGP,2016,71,65169,5850000,East Asia & Pacific
+New Zealand,NZL,2016,78.6,36196,5120000,East Asia & Pacific
+Iceland,ISL,2016,86.4,44896,372000,Europe & Central Asia
+Malta,MLT,2016,68.1,14150,520000,Europe & Central Asia
+Cyprus,CYP,2016,66.3,19955,1210000,Europe & Central Asia
+United States,USA,2017,81,55288,331900000,North America
+Germany,DEU,2017,75.2,36116,83200000,Europe & Central Asia
+Japan,JPN,2017,70.6,108815,125800000,East Asia & Pacific
+United Kingdom,GBR,2017,79.6,40154,67800000,Europe & Central Asia
+France,FRA,2017,70.3,34585,67400000,Europe & Central Asia
+Canada,CAN,2017,81.6,35642,38200000,North America
+Australia,AUS,2017,76.2,63239,25700000,East Asia & Pacific
+South Korea,KOR,2017,83.5,35279,51780000,East Asia & Pacific
+Sweden,SWE,2017,79.1,44646,10350000,Europe & Central Asia
+Norway,NOR,2017,84.2,57856,5380000,Europe & Central Asia
+China,CHN,2017,62.4,2797,1412000000,East Asia & Pacific
+India,IND,2017,40.2,1292,1380000000,South Asia
+Brazil,BRA,2017,68.7,6712,215000000,Latin America & Caribbean
+Russia,RUS,2017,69.4,2696,146000000,Europe & Central Asia
+Mexico,MEX,2017,58,11789,128900000,Latin America & Caribbean
+Indonesia,IDN,2017,56.1,2500,273500000,East Asia & Pacific
+Turkey,TUR,2017,57.9,6420,84300000,Europe & Central Asia
+South Africa,ZAF,2017,55.2,5425,59300000,Sub-Saharan Africa
+Thailand,THA,2017,64.5,5744,69800000,East Asia & Pacific
+Malaysia,MYS,2017,75.2,11680,32400000,East Asia & Pacific
+Nigeria,NGA,2017,46.2,682,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2017,35.7,1038,164700000,South Asia
+Pakistan,PAK,2017,20.3,1371,225200000,South Asia
+Ethiopia,ETH,2017,19.5,230,118000000,Sub-Saharan Africa
+Kenya,KEN,2017,76.8,720,54000000,Sub-Saharan Africa
+Ghana,GHA,2017,52.4,486,32800000,Sub-Saharan Africa
+Uganda,UGA,2017,24.8,447,47100000,Sub-Saharan Africa
+Tanzania,TZA,2017,24.1,503,61500000,Sub-Saharan Africa
+Senegal,SEN,2017,53.1,799,17200000,Sub-Saharan Africa
+Cambodia,KHM,2017,55.2,840,16700000,East Asia & Pacific
+Argentina,ARG,2017,66.7,13814,45400000,Latin America & Caribbean
+Chile,CHL,2017,70.5,9106,19100000,Latin America & Caribbean
+Poland,POL,2017,69.5,6777,37900000,Europe & Central Asia
+Czech Republic,CZE,2017,71,8830,10700000,Europe & Central Asia
+Hungary,HUN,2017,64.6,6922,9750000,Europe & Central Asia
+Portugal,PRT,2017,62.1,17400,10300000,Europe & Central Asia
+Greece,GRC,2017,58.9,17706,10700000,Europe & Central Asia
+Croatia,HRV,2017,66.3,6939,3890000,Europe & Central Asia
+Estonia,EST,2017,73.6,6070,1330000,Europe & Central Asia
+Lithuania,LTU,2017,67.8,4732,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2017,80.7,16540,35000000,Middle East & North Africa
+UAE,ARE,2017,79.5,55969,9890000,Middle East & North Africa
+Kuwait,KWT,2017,81,32956,4270000,Middle East & North Africa
+Qatar,QAT,2017,80.3,49648,2880000,Middle East & North Africa
+Bahrain,BHR,2017,82.7,20592,1700000,Middle East & North Africa
+Singapore,SGP,2017,73,69405,5850000,East Asia & Pacific
+New Zealand,NZL,2017,79,38549,5120000,East Asia & Pacific
+Iceland,ISL,2017,87.5,46018,372000,Europe & Central Asia
+Malta,MLT,2017,70.1,14504,520000,Europe & Central Asia
+Cyprus,CYP,2017,69.4,20454,1210000,Europe & Central Asia
+United States,USA,2018,82.2,56670,331900000,North America
+Germany,DEU,2018,77.3,37018,83200000,Europe & Central Asia
+Japan,JPN,2018,73.1,115888,125800000,East Asia & Pacific
+United Kingdom,GBR,2018,82.8,41158,67800000,Europe & Central Asia
+France,FRA,2018,73.3,35449,67400000,Europe & Central Asia
+Canada,CAN,2018,83.5,36533,38200000,North America
+Australia,AUS,2018,77.8,67349,25700000,East Asia & Pacific
+South Korea,KOR,2018,84.7,37572,51780000,East Asia & Pacific
+Sweden,SWE,2018,81.7,45762,10350000,Europe & Central Asia
+Norway,NOR,2018,84.7,59303,5380000,Europe & Central Asia
+China,CHN,2018,65.2,2979,1412000000,East Asia & Pacific
+India,IND,2018,42.1,1376,1380000000,South Asia
+Brazil,BRA,2018,71,6947,215000000,Latin America & Caribbean
+Russia,RUS,2018,74,2764,146000000,Europe & Central Asia
+Mexico,MEX,2018,59.7,12202,128900000,Latin America & Caribbean
+Indonesia,IDN,2018,59,2662,273500000,East Asia & Pacific
+Turkey,TUR,2018,60.9,6580,84300000,Europe & Central Asia
+South Africa,ZAF,2018,58.4,5615,59300000,Sub-Saharan Africa
+Thailand,THA,2018,67.5,6117,69800000,East Asia & Pacific
+Malaysia,MYS,2018,78.1,12439,32400000,East Asia & Pacific
+Nigeria,NGA,2018,49.1,706,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2018,37.5,1106,164700000,South Asia
+Pakistan,PAK,2018,20.1,1460,225200000,South Asia
+Ethiopia,ETH,2018,21.7,238,118000000,Sub-Saharan Africa
+Kenya,KEN,2018,80.6,745,54000000,Sub-Saharan Africa
+Ghana,GHA,2018,54.4,503,32800000,Sub-Saharan Africa
+Uganda,UGA,2018,24,463,47100000,Sub-Saharan Africa
+Tanzania,TZA,2018,23.6,520,61500000,Sub-Saharan Africa
+Senegal,SEN,2018,55.1,827,17200000,Sub-Saharan Africa
+Cambodia,KHM,2018,57.7,895,16700000,East Asia & Pacific
+Argentina,ARG,2018,70.9,14297,45400000,Latin America & Caribbean
+Chile,CHL,2018,72.6,9425,19100000,Latin America & Caribbean
+Poland,POL,2018,71.4,6947,37900000,Europe & Central Asia
+Czech Republic,CZE,2018,74.4,9051,10700000,Europe & Central Asia
+Hungary,HUN,2018,66.8,7095,9750000,Europe & Central Asia
+Portugal,PRT,2018,64.1,17835,10300000,Europe & Central Asia
+Greece,GRC,2018,61.6,18148,10700000,Europe & Central Asia
+Croatia,HRV,2018,69.1,7112,3890000,Europe & Central Asia
+Estonia,EST,2018,76.8,6221,1330000,Europe & Central Asia
+Lithuania,LTU,2018,70.4,4851,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2018,83.9,17119,35000000,Middle East & North Africa
+UAE,ARE,2018,82.7,57928,9890000,Middle East & North Africa
+Kuwait,KWT,2018,85.3,34109,4270000,Middle East & North Africa
+Qatar,QAT,2018,83.6,51386,2880000,Middle East & North Africa
+Bahrain,BHR,2018,84.9,21313,1700000,Middle East & North Africa
+Singapore,SGP,2018,75.8,73917,5850000,East Asia & Pacific
+New Zealand,NZL,2018,81.6,41054,5120000,East Asia & Pacific
+Iceland,ISL,2018,88.7,47169,372000,Europe & Central Asia
+Malta,MLT,2018,72.3,14867,520000,Europe & Central Asia
+Cyprus,CYP,2018,72.9,20965,1210000,Europe & Central Asia
+United States,USA,2019,83.7,58087,331900000,North America
+Germany,DEU,2019,78.4,37944,83200000,Europe & Central Asia
+Japan,JPN,2019,73,123420,125800000,East Asia & Pacific
+United Kingdom,GBR,2019,84.4,42187,67800000,Europe & Central Asia
+France,FRA,2019,75.7,36336,67400000,Europe & Central Asia
+Canada,CAN,2019,85.2,37447,38200000,North America
+Australia,AUS,2019,78.3,71727,25700000,East Asia & Pacific
+South Korea,KOR,2019,86.4,40014,51780000,East Asia & Pacific
+Sweden,SWE,2019,82.5,46906,10350000,Europe & Central Asia
+Norway,NOR,2019,87.2,60785,5380000,Europe & Central Asia
+China,CHN,2019,67.7,3173,1412000000,East Asia & Pacific
+India,IND,2019,41.8,1466,1380000000,South Asia
+Brazil,BRA,2019,73.7,7190,215000000,Latin America & Caribbean
+Russia,RUS,2019,76.2,2833,146000000,Europe & Central Asia
+Mexico,MEX,2019,61.2,12629,128900000,Latin America & Caribbean
+Indonesia,IDN,2019,60.1,2835,273500000,East Asia & Pacific
+Turkey,TUR,2019,63.1,6745,84300000,Europe & Central Asia
+South Africa,ZAF,2019,59.2,5812,59300000,Sub-Saharan Africa
+Thailand,THA,2019,69.6,6515,69800000,East Asia & Pacific
+Malaysia,MYS,2019,80.1,13248,32400000,East Asia & Pacific
+Nigeria,NGA,2019,49.6,731,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2019,38.5,1178,164700000,South Asia
+Pakistan,PAK,2019,21.3,1555,225200000,South Asia
+Ethiopia,ETH,2019,20.8,246,118000000,Sub-Saharan Africa
+Kenya,KEN,2019,82.4,771,54000000,Sub-Saharan Africa
+Ghana,GHA,2019,55,521,32800000,Sub-Saharan Africa
+Uganda,UGA,2019,25.3,479,47100000,Sub-Saharan Africa
+Tanzania,TZA,2019,24.1,538,61500000,Sub-Saharan Africa
+Senegal,SEN,2019,57.1,856,17200000,Sub-Saharan Africa
+Cambodia,KHM,2019,57.8,953,16700000,East Asia & Pacific
+Argentina,ARG,2019,73.7,14797,45400000,Latin America & Caribbean
+Chile,CHL,2019,75.4,9755,19100000,Latin America & Caribbean
+Poland,POL,2019,74.7,7120,37900000,Europe & Central Asia
+Czech Republic,CZE,2019,76.5,9277,10700000,Europe & Central Asia
+Hungary,HUN,2019,69.6,7272,9750000,Europe & Central Asia
+Portugal,PRT,2019,66.2,18281,10300000,Europe & Central Asia
+Greece,GRC,2019,64,18602,10700000,Europe & Central Asia
+Croatia,HRV,2019,71,7290,3890000,Europe & Central Asia
+Estonia,EST,2019,78.4,6377,1330000,Europe & Central Asia
+Lithuania,LTU,2019,74,4972,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2019,88.2,17718,35000000,Middle East & North Africa
+UAE,ARE,2019,84,59955,9890000,Middle East & North Africa
+Kuwait,KWT,2019,87.4,35303,4270000,Middle East & North Africa
+Qatar,QAT,2019,86.1,53184,2880000,Middle East & North Africa
+Bahrain,BHR,2019,87.8,22059,1700000,Middle East & North Africa
+Singapore,SGP,2019,76.2,78721,5850000,East Asia & Pacific
+New Zealand,NZL,2019,82.8,43723,5120000,East Asia & Pacific
+Iceland,ISL,2019,90.1,48348,372000,Europe & Central Asia
+Malta,MLT,2019,75.5,15238,520000,Europe & Central Asia
+Cyprus,CYP,2019,73.8,21489,1210000,Europe & Central Asia
+United States,USA,2020,85.7,59539,331900000,North America
+Germany,DEU,2020,81.5,38893,83200000,Europe & Central Asia
+Japan,JPN,2020,75,131443,125800000,East Asia & Pacific
+United Kingdom,GBR,2020,86.8,43241,67800000,Europe & Central Asia
+France,FRA,2020,78.5,37244,67400000,Europe & Central Asia
+Canada,CAN,2020,85,38383,38200000,North America
+Australia,AUS,2020,80.7,76389,25700000,East Asia & Pacific
+South Korea,KOR,2020,86.9,42615,51780000,East Asia & Pacific
+Sweden,SWE,2020,84.3,48079,10350000,Europe & Central Asia
+Norway,NOR,2020,87.1,62305,5380000,Europe & Central Asia
+China,CHN,2020,70,3379,1412000000,East Asia & Pacific
+India,IND,2020,43,1561,1380000000,South Asia
+Brazil,BRA,2020,75.5,7442,215000000,Latin America & Caribbean
+Russia,RUS,2020,78.4,2904,146000000,Europe & Central Asia
+Mexico,MEX,2020,63.9,13071,128900000,Latin America & Caribbean
+Indonesia,IDN,2020,62.1,3020,273500000,East Asia & Pacific
+Turkey,TUR,2020,64.7,6913,84300000,Europe & Central Asia
+South Africa,ZAF,2020,61.2,6015,59300000,Sub-Saharan Africa
+Thailand,THA,2020,71.8,6938,69800000,East Asia & Pacific
+Malaysia,MYS,2020,81.9,14109,32400000,East Asia & Pacific
+Nigeria,NGA,2020,49.2,756,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2020,37.4,1254,164700000,South Asia
+Pakistan,PAK,2020,20.8,1656,225200000,South Asia
+Ethiopia,ETH,2020,21.3,255,118000000,Sub-Saharan Africa
+Kenya,KEN,2020,84.7,798,54000000,Sub-Saharan Africa
+Ghana,GHA,2020,56.7,539,32800000,Sub-Saharan Africa
+Uganda,UGA,2020,25.2,495,47100000,Sub-Saharan Africa
+Tanzania,TZA,2020,25.4,557,61500000,Sub-Saharan Africa
+Senegal,SEN,2020,57.2,885,17200000,Sub-Saharan Africa
+Cambodia,KHM,2020,59.5,1015,16700000,East Asia & Pacific
+Argentina,ARG,2020,75.3,15315,45400000,Latin America & Caribbean
+Chile,CHL,2020,77.7,10096,19100000,Latin America & Caribbean
+Poland,POL,2020,77.6,7298,37900000,Europe & Central Asia
+Czech Republic,CZE,2020,78.2,9509,10700000,Europe & Central Asia
+Hungary,HUN,2020,70.6,7454,9750000,Europe & Central Asia
+Portugal,PRT,2020,68.2,18738,10300000,Europe & Central Asia
+Greece,GRC,2020,66.4,19067,10700000,Europe & Central Asia
+Croatia,HRV,2020,74.4,7472,3890000,Europe & Central Asia
+Estonia,EST,2020,81.2,6536,1330000,Europe & Central Asia
+Lithuania,LTU,2020,76.5,5096,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2020,89.4,18338,35000000,Middle East & North Africa
+UAE,ARE,2020,87,62054,9890000,Middle East & North Africa
+Kuwait,KWT,2020,90.4,36538,4270000,Middle East & North Africa
+Qatar,QAT,2020,89.6,55046,2880000,Middle East & North Africa
+Bahrain,BHR,2020,90.1,22831,1700000,Middle East & North Africa
+Singapore,SGP,2020,77.4,83838,5850000,East Asia & Pacific
+New Zealand,NZL,2020,83.2,46565,5120000,East Asia & Pacific
+Iceland,ISL,2020,90.6,49557,372000,Europe & Central Asia
+Malta,MLT,2020,75.9,15619,520000,Europe & Central Asia
+Cyprus,CYP,2020,76.2,22026,1210000,Europe & Central Asia
+United States,USA,2021,86.9,61028,331900000,North America
+Germany,DEU,2021,81.4,39865,83200000,Europe & Central Asia
+Japan,JPN,2021,76.9,139986,125800000,East Asia & Pacific
+United Kingdom,GBR,2021,88.4,44322,67800000,Europe & Central Asia
+France,FRA,2021,78.4,38175,67400000,Europe & Central Asia
+Canada,CAN,2021,86.2,39343,38200000,North America
+Australia,AUS,2021,80.8,81354,25700000,East Asia & Pacific
+South Korea,KOR,2021,88.7,45385,51780000,East Asia & Pacific
+Sweden,SWE,2021,86.7,49281,10350000,Europe & Central Asia
+Norway,NOR,2021,88.9,63863,5380000,Europe & Central Asia
+China,CHN,2021,71.2,3599,1412000000,East Asia & Pacific
+India,IND,2021,43.8,1662,1380000000,South Asia
+Brazil,BRA,2021,77.1,7702,215000000,Latin America & Caribbean
+Russia,RUS,2021,79.2,2976,146000000,Europe & Central Asia
+Mexico,MEX,2021,64.8,13528,128900000,Latin America & Caribbean
+Indonesia,IDN,2021,62.9,3216,273500000,East Asia & Pacific
+Turkey,TUR,2021,66,7086,84300000,Europe & Central Asia
+South Africa,ZAF,2021,63.5,6226,59300000,Sub-Saharan Africa
+Thailand,THA,2021,72.9,7389,69800000,East Asia & Pacific
+Malaysia,MYS,2021,83.5,15026,32400000,East Asia & Pacific
+Nigeria,NGA,2021,50.1,783,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2021,38.8,1336,164700000,South Asia
+Pakistan,PAK,2021,21.4,1764,225200000,South Asia
+Ethiopia,ETH,2021,22.7,264,118000000,Sub-Saharan Africa
+Kenya,KEN,2021,85.6,826,54000000,Sub-Saharan Africa
+Ghana,GHA,2021,56.6,558,32800000,Sub-Saharan Africa
+Uganda,UGA,2021,26.9,513,47100000,Sub-Saharan Africa
+Tanzania,TZA,2021,25.6,577,61500000,Sub-Saharan Africa
+Senegal,SEN,2021,57,916,17200000,Sub-Saharan Africa
+Cambodia,KHM,2021,59,1081,16700000,East Asia & Pacific
+Argentina,ARG,2021,77.2,15851,45400000,Latin America & Caribbean
+Chile,CHL,2021,79.7,10450,19100000,Latin America & Caribbean
+Poland,POL,2021,78.5,7481,37900000,Europe & Central Asia
+Czech Republic,CZE,2021,81.1,9747,10700000,Europe & Central Asia
+Hungary,HUN,2021,71.8,7640,9750000,Europe & Central Asia
+Portugal,PRT,2021,69.8,19206,10300000,Europe & Central Asia
+Greece,GRC,2021,66.9,19544,10700000,Europe & Central Asia
+Croatia,HRV,2021,75.6,7659,3890000,Europe & Central Asia
+Estonia,EST,2021,81.5,6700,1330000,Europe & Central Asia
+Lithuania,LTU,2021,76.3,5223,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2021,91,18980,35000000,Middle East & North Africa
+UAE,ARE,2021,88.5,64225,9890000,Middle East & North Africa
+Kuwait,KWT,2021,91.8,37817,4270000,Middle East & North Africa
+Qatar,QAT,2021,90.5,56972,2880000,Middle East & North Africa
+Bahrain,BHR,2021,92.3,23630,1700000,Middle East & North Africa
+Singapore,SGP,2021,78.8,89288,5850000,East Asia & Pacific
+New Zealand,NZL,2021,84.8,49592,5120000,East Asia & Pacific
+Iceland,ISL,2021,91.5,50796,372000,Europe & Central Asia
+Malta,MLT,2021,78.8,16010,520000,Europe & Central Asia
+Cyprus,CYP,2021,79.3,22577,1210000,Europe & Central Asia
+United States,USA,2022,87.6,62553,331900000,North America
+Germany,DEU,2022,83.4,40861,83200000,Europe & Central Asia
+Japan,JPN,2022,76.9,149085,125800000,East Asia & Pacific
+United Kingdom,GBR,2022,88.7,45431,67800000,Europe & Central Asia
+France,FRA,2022,81.2,39130,67400000,Europe & Central Asia
+Canada,CAN,2022,87.7,40326,38200000,North America
+Australia,AUS,2022,83.2,86642,25700000,East Asia & Pacific
+South Korea,KOR,2022,91.1,48335,51780000,East Asia & Pacific
+Sweden,SWE,2022,87.6,50513,10350000,Europe & Central Asia
+Norway,NOR,2022,89.9,65459,5380000,Europe & Central Asia
+China,CHN,2022,71.7,3833,1412000000,East Asia & Pacific
+India,IND,2022,43.8,1770,1380000000,South Asia
+Brazil,BRA,2022,79,7972,215000000,Latin America & Caribbean
+Russia,RUS,2022,81.7,3051,146000000,Europe & Central Asia
+Mexico,MEX,2022,66.5,14002,128900000,Latin America & Caribbean
+Indonesia,IDN,2022,62.6,3425,273500000,East Asia & Pacific
+Turkey,TUR,2022,67.3,7263,84300000,Europe & Central Asia
+South Africa,ZAF,2022,63.7,6444,59300000,Sub-Saharan Africa
+Thailand,THA,2022,73.6,7869,69800000,East Asia & Pacific
+Malaysia,MYS,2022,84.4,16002,32400000,East Asia & Pacific
+Nigeria,NGA,2022,51.7,810,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2022,38.6,1423,164700000,South Asia
+Pakistan,PAK,2022,21.2,1878,225200000,South Asia
+Ethiopia,ETH,2022,21.8,273,118000000,Sub-Saharan Africa
+Kenya,KEN,2022,85.9,855,54000000,Sub-Saharan Africa
+Ghana,GHA,2022,56.8,578,32800000,Sub-Saharan Africa
+Uganda,UGA,2022,26.6,531,47100000,Sub-Saharan Africa
+Tanzania,TZA,2022,24.1,597,61500000,Sub-Saharan Africa
+Senegal,SEN,2022,57.4,949,17200000,Sub-Saharan Africa
+Cambodia,KHM,2022,60.1,1151,16700000,East Asia & Pacific
+Argentina,ARG,2022,78.2,16406,45400000,Latin America & Caribbean
+Chile,CHL,2022,80.1,10815,19100000,Latin America & Caribbean
+Poland,POL,2022,80.3,7668,37900000,Europe & Central Asia
+Czech Republic,CZE,2022,81.9,9990,10700000,Europe & Central Asia
+Hungary,HUN,2022,73.3,7831,9750000,Europe & Central Asia
+Portugal,PRT,2022,70.5,19686,10300000,Europe & Central Asia
+Greece,GRC,2022,68.5,20032,10700000,Europe & Central Asia
+Croatia,HRV,2022,77.1,7850,3890000,Europe & Central Asia
+Estonia,EST,2022,84.2,6867,1330000,Europe & Central Asia
+Lithuania,LTU,2022,79.3,5354,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2022,92.5,19644,35000000,Middle East & North Africa
+UAE,ARE,2022,91,66473,9890000,Middle East & North Africa
+Kuwait,KWT,2022,94.1,39141,4270000,Middle East & North Africa
+Qatar,QAT,2022,92.1,58966,2880000,Middle East & North Africa
+Bahrain,BHR,2022,95,24457,1700000,Middle East & North Africa
+Singapore,SGP,2022,81.2,95091,5850000,East Asia & Pacific
+New Zealand,NZL,2022,87,52815,5120000,East Asia & Pacific
+Iceland,ISL,2022,91.7,52065,372000,Europe & Central Asia
+Malta,MLT,2022,79.1,16410,520000,Europe & Central Asia
+Cyprus,CYP,2022,80.5,23141,1210000,Europe & Central Asia
+United States,USA,2023,89.6,64117,331900000,North America
+Germany,DEU,2023,84.7,41883,83200000,Europe & Central Asia
+Japan,JPN,2023,78.4,158776,125800000,East Asia & Pacific
+United Kingdom,GBR,2023,90.3,46566,67800000,Europe & Central Asia
+France,FRA,2023,82.7,40108,67400000,Europe & Central Asia
+Canada,CAN,2023,89.5,41334,38200000,North America
+Australia,AUS,2023,83.5,92274,25700000,East Asia & Pacific
+South Korea,KOR,2023,91.4,51477,51780000,East Asia & Pacific
+Sweden,SWE,2023,88.3,51775,10350000,Europe & Central Asia
+Norway,NOR,2023,91.9,67096,5380000,Europe & Central Asia
+China,CHN,2023,71.2,4082,1412000000,East Asia & Pacific
+India,IND,2023,43.7,1886,1380000000,South Asia
+Brazil,BRA,2023,78,8251,215000000,Latin America & Caribbean
+Russia,RUS,2023,82.7,3127,146000000,Europe & Central Asia
+Mexico,MEX,2023,66.8,14492,128900000,Latin America & Caribbean
+Indonesia,IDN,2023,64.4,3648,273500000,East Asia & Pacific
+Turkey,TUR,2023,68.2,7445,84300000,Europe & Central Asia
+South Africa,ZAF,2023,65,6669,59300000,Sub-Saharan Africa
+Thailand,THA,2023,75.2,8381,69800000,East Asia & Pacific
+Malaysia,MYS,2023,86.3,17043,32400000,East Asia & Pacific
+Nigeria,NGA,2023,50.1,838,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2023,39.4,1515,164700000,South Asia
+Pakistan,PAK,2023,22.7,2001,225200000,South Asia
+Ethiopia,ETH,2023,22.7,282,118000000,Sub-Saharan Africa
+Kenya,KEN,2023,86,885,54000000,Sub-Saharan Africa
+Ghana,GHA,2023,58.6,598,32800000,Sub-Saharan Africa
+Uganda,UGA,2023,25.4,549,47100000,Sub-Saharan Africa
+Tanzania,TZA,2023,24,618,61500000,Sub-Saharan Africa
+Senegal,SEN,2023,57.4,982,17200000,Sub-Saharan Africa
+Cambodia,KHM,2023,59.8,1226,16700000,East Asia & Pacific
+Argentina,ARG,2023,80,16980,45400000,Latin America & Caribbean
+Chile,CHL,2023,83.1,11194,19100000,Latin America & Caribbean
+Poland,POL,2023,80.8,7860,37900000,Europe & Central Asia
+Czech Republic,CZE,2023,82.9,10240,10700000,Europe & Central Asia
+Hungary,HUN,2023,75,8027,9750000,Europe & Central Asia
+Portugal,PRT,2023,73,20178,10300000,Europe & Central Asia
+Greece,GRC,2023,68.4,20533,10700000,Europe & Central Asia
+Croatia,HRV,2023,76.4,8047,3890000,Europe & Central Asia
+Estonia,EST,2023,84.9,7039,1330000,Europe & Central Asia
+Lithuania,LTU,2023,80,5488,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2023,93.3,20332,35000000,Middle East & North Africa
+UAE,ARE,2023,92.9,68800,9890000,Middle East & North Africa
+Kuwait,KWT,2023,94.9,40511,4270000,Middle East & North Africa
+Qatar,QAT,2023,95,61030,2880000,Middle East & North Africa
+Bahrain,BHR,2023,94.6,25313,1700000,Middle East & North Africa
+Singapore,SGP,2023,81.9,101272,5850000,East Asia & Pacific
+New Zealand,NZL,2023,87.9,56248,5120000,East Asia & Pacific
+Iceland,ISL,2023,92.1,53367,372000,Europe & Central Asia
+Malta,MLT,2023,81.2,16820,520000,Europe & Central Asia
+Cyprus,CYP,2023,80.2,23720,1210000,Europe & Central Asia
+United States,USA,2024,89.9,65720,331900000,North America
+Germany,DEU,2024,85.9,42930,83200000,Europe & Central Asia
+Japan,JPN,2024,79.2,169096,125800000,East Asia & Pacific
+United Kingdom,GBR,2024,90.8,47730,67800000,Europe & Central Asia
+France,FRA,2024,83.1,41111,67400000,Europe & Central Asia
+Canada,CAN,2024,89.9,42368,38200000,North America
+Australia,AUS,2024,84.1,98272,25700000,East Asia & Pacific
+South Korea,KOR,2024,91.9,54823,51780000,East Asia & Pacific
+Sweden,SWE,2024,87.8,53070,10350000,Europe & Central Asia
+Norway,NOR,2024,91.6,68773,5380000,Europe & Central Asia
+China,CHN,2024,73,4347,1412000000,East Asia & Pacific
+India,IND,2024,44.7,2008,1380000000,South Asia
+Brazil,BRA,2024,80.4,8540,215000000,Latin America & Caribbean
+Russia,RUS,2024,83,3205,146000000,Europe & Central Asia
+Mexico,MEX,2024,67,14999,128900000,Latin America & Caribbean
+Indonesia,IDN,2024,65.1,3885,273500000,East Asia & Pacific
+Turkey,TUR,2024,68.5,7631,84300000,Europe & Central Asia
+South Africa,ZAF,2024,65.6,6903,59300000,Sub-Saharan Africa
+Thailand,THA,2024,76.4,8926,69800000,East Asia & Pacific
+Malaysia,MYS,2024,85.4,18150,32400000,East Asia & Pacific
+Nigeria,NGA,2024,50.7,868,218500000,Sub-Saharan Africa
+Bangladesh,BGD,2024,38,1614,164700000,South Asia
+Pakistan,PAK,2024,21.3,2131,225200000,South Asia
+Ethiopia,ETH,2024,21.2,292,118000000,Sub-Saharan Africa
+Kenya,KEN,2024,86.2,916,54000000,Sub-Saharan Africa
+Ghana,GHA,2024,57.5,619,32800000,Sub-Saharan Africa
+Uganda,UGA,2024,25.5,569,47100000,Sub-Saharan Africa
+Tanzania,TZA,2024,25.1,639,61500000,Sub-Saharan Africa
+Senegal,SEN,2024,58.5,1016,17200000,Sub-Saharan Africa
+Cambodia,KHM,2024,60,1306,16700000,East Asia & Pacific
+Argentina,ARG,2024,81.7,17575,45400000,Latin America & Caribbean
+Chile,CHL,2024,83.5,11586,19100000,Latin America & Caribbean
+Poland,POL,2024,81.3,8056,37900000,Europe & Central Asia
+Czech Republic,CZE,2024,84.1,10496,10700000,Europe & Central Asia
+Hungary,HUN,2024,76.4,8228,9750000,Europe & Central Asia
+Portugal,PRT,2024,73.6,20683,10300000,Europe & Central Asia
+Greece,GRC,2024,69.5,21046,10700000,Europe & Central Asia
+Croatia,HRV,2024,77.3,8248,3890000,Europe & Central Asia
+Estonia,EST,2024,86.5,7215,1330000,Europe & Central Asia
+Lithuania,LTU,2024,79.8,5625,2790000,Europe & Central Asia
+Saudi Arabia,SAU,2024,94,21043,35000000,Middle East & North Africa
+UAE,ARE,2024,93.6,71208,9890000,Middle East & North Africa
+Kuwait,KWT,2024,96.3,41929,4270000,Middle East & North Africa
+Qatar,QAT,2024,95,63166,2880000,Middle East & North Africa
+Bahrain,BHR,2024,95.7,26199,1700000,Middle East & North Africa
+Singapore,SGP,2024,83.3,107855,5850000,East Asia & Pacific
+New Zealand,NZL,2024,88.2,59904,5120000,East Asia & Pacific
+Iceland,ISL,2024,92,54701,372000,Europe & Central Asia
+Malta,MLT,2024,82.7,17241,520000,Europe & Central Asia
+Cyprus,CYP,2024,82.4,24313,1210000,Europe & Central Asia

@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Generate Comprehensive Dataset</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .download-btn {
+            background: #3182ce;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 10px 5px;
+        }
+        .download-btn:hover { background: #2c5282; }
+        .info-box {
+            background: #f0f9ff;
+            border: 1px solid #0ea5e9;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>📊 Digital Divide - Complete Dataset Generator</h1>
+    
+    <div class="info-box">
+        <h3>🎯 What This Provides:</h3>
+        <ul>
+            <li><strong>50 countries</strong> across all regions</li>
+            <li><strong>25 years</strong> of data (2000-2024)</li>
+            <li><strong>1,250 total records</strong> with realistic trends</li>
+            <li>Internet penetration, GDP per capita, population, regions</li>
+        </ul>
+    </div>
+
+    <button class="download-btn" onclick="generateFullDataset()">
+        ownload Complete Dataset (connectivity-full.csv)
+    </button>
+    
+    <button class="download-btn" onclick="generateCountryMapping()">
+        Download Country Mapping (country-codes.csv)
+    </button>
+
+    <div id="results"></div>
+
+    <script>
+        // Generate realistic internet penetration growth curves
+        function getInternetPenetration(country, year) {
+            const baseYear = 2000;
+            const yearsSince = year - baseYear;
+            
+            // Different growth patterns for different countries
+            const growthProfiles = {
+                // Developed countries - early adopters
+                "United States": { start: 43.1, peak: 91.8, growthRate: 0.25 },
+                "Germany": { start: 30.2, peak: 89.6, growthRate: 0.22 },
+                "Japan": { start: 37.1, peak: 83.0, growthRate: 0.20 },
+                "United Kingdom": { start: 26.8, peak: 94.9, growthRate: 0.24 },
+                "France": { start: 14.3, peak: 85.6, growthRate: 0.26 },
+                "Canada": { start: 51.3, peak: 92.7, growthRate: 0.20 },
+                "Australia": { start: 46.8, peak: 88.2, growthRate: 0.18 },
+                "South Korea": { start: 44.7, peak: 95.9, growthRate: 0.21 },
+                "Sweden": { start: 45.7, peak: 93.1, growthRate: 0.19 },
+                "Norway": { start: 52.0, peak: 97.3, growthRate: 0.17 },
+                
+                // Emerging markets - rapid growth
+                "China": { start: 1.8, peak: 73.7, growthRate: 0.35 },
+                "India": { start: 0.5, peak: 45.0, growthRate: 0.40 },
+                "Brazil": { start: 2.9, peak: 81.2, growthRate: 0.32 },
+                "Russia": { start: 2.0, peak: 85.0, growthRate: 0.30 },
+                "Mexico": { start: 5.1, peak: 70.1, growthRate: 0.28 },
+                "Indonesia": { start: 0.9, peak: 64.8, growthRate: 0.38 },
+                "Turkey": { start: 3.8, peak: 71.0, growthRate: 0.29 },
+                "South Africa": { start: 6.8, peak: 68.2, growthRate: 0.27 },
+                "Thailand": { start: 3.7, peak: 77.8, growthRate: 0.31 },
+                "Malaysia": { start: 21.4, peak: 89.6, growthRate: 0.25 },
+                
+                // Developing countries - slower growth
+                "Nigeria": { start: 0.1, peak: 51.4, growthRate: 0.45 },
+                "Bangladesh": { start: 0.1, peak: 38.9, growthRate: 0.48 },
+                "Pakistan": { start: 0.1, peak: 21.9, growthRate: 0.50 },
+                "Ethiopia": { start: 0.0, peak: 21.9, growthRate: 0.52 },
+                "Kenya": { start: 0.8, peak: 87.2, growthRate: 0.42 },
+                "Ghana": { start: 0.2, peak: 58.0, growthRate: 0.46 },
+                "Uganda": { start: 0.2, peak: 26.2, growthRate: 0.50 },
+                "Tanzania": { start: 0.1, peak: 25.0, growthRate: 0.51 },
+                "Senegal": { start: 0.4, peak: 58.2, growthRate: 0.47 },
+                "Cambodia": { start: 0.1, peak: 60.0, growthRate: 0.49 },
+                
+                // Middle-income countries
+                "Argentina": { start: 7.0, peak: 84.2, growthRate: 0.26 },
+                "Chile": { start: 16.6, peak: 87.5, growthRate: 0.23 },
+                "Poland": { start: 7.3, peak: 84.2, growthRate: 0.28 },
+                "Czech Republic": { start: 12.8, peak: 88.1, growthRate: 0.25 },
+                "Hungary": { start: 14.8, peak: 79.3, growthRate: 0.24 },
+                "Portugal": { start: 16.5, peak: 77.6, growthRate: 0.22 },
+                "Greece": { start: 9.1, peak: 72.7, growthRate: 0.26 },
+                "Croatia": { start: 8.6, peak: 80.9, growthRate: 0.27 },
+                "Estonia": { start: 28.6, peak: 90.8, growthRate: 0.20 },
+                "Lithuania": { start: 3.5, peak: 82.2, growthRate: 0.30 },
+                
+                // Oil-rich countries
+                "Saudi Arabia": { start: 2.2, peak: 95.7, growthRate: 0.33 },
+                "UAE": { start: 23.6, peak: 99.0, growthRate: 0.21 },
+                "Kuwait": { start: 6.7, peak: 98.6, growthRate: 0.29 },
+                "Qatar": { start: 17.9, peak: 99.7, growthRate: 0.24 },
+                "Bahrain": { start: 6.2, peak: 98.7, growthRate: 0.30 },
+                
+                // Island nations
+                "Singapore": { start: 36.0, peak: 88.2, growthRate: 0.18 },
+                "New Zealand": { start: 47.4, peak: 93.4, growthRate: 0.17 },
+                "Iceland": { start: 69.0, peak: 98.3, growthRate: 0.12 },
+                "Malta": { start: 23.9, peak: 86.7, growthRate: 0.21 },
+                "Cyprus": { start: 10.3, peak: 84.4, growthRate: 0.27 },
+                
+                // African countries
+                "Morocco": { start: 0.7, peak: 64.8, growthRate: 0.44 },
+                "Egypt": { start: 0.6, peak: 57.3, growthRate: 0.43 },
+                "Tunisia": { start: 2.7, peak: 64.2, growthRate: 0.35 },
+                "Algeria": { start: 0.5, peak: 61.0, growthRate: 0.41 },
+                "Botswana": { start: 2.9, peak: 63.6, growthRate: 0.37 },
+                
+                // Latin American countries
+                "Colombia": { start: 2.2, peak: 69.2, growthRate: 0.33 },
+                "Peru": { start: 2.5, peak: 60.1, growthRate: 0.34 },
+                "Ecuador": { start: 1.5, peak: 65.8, growthRate: 0.36 },
+                "Uruguay": { start: 10.5, peak: 71.4, growthRate: 0.25 },
+                "Costa Rica": { start: 5.8, peak: 81.2, growthRate: 0.28 }
+            };
+            
+            const profile = growthProfiles[country] || { start: 1.0, peak: 50.0, growthRate: 0.35 };
+            
+            // Logistic growth curve
+            const maxGrowth = profile.peak - profile.start;
+            const growth = maxGrowth / (1 + Math.exp(-profile.growthRate * (yearsSince - 12)));
+            const penetration = Math.min(profile.start + growth, profile.peak);
+            
+            // Add some realistic noise
+            const noise = (Math.random() - 0.5) * 2;
+            return Math.max(0, Math.min(100, penetration + noise));
+        }
+        
+        // GDP per capita data (simplified but realistic)
+        function getGDPPerCapita(country, year, region) {
+            const baseGDP = {
+                "United States": 36335, "Germany": 23735, "Japan": 37303, "United Kingdom": 26389,
+                "France": 22729, "Canada": 23424, "Australia": 21679, "South Korea": 12094,
+                "Sweden": 29341, "Norway": 38023, "China": 959, "India": 443, "Brazil": 3740,
+                "Russia": 1772, "Mexico": 6569, "Indonesia": 857, "Turkey": 4219, "South Africa": 3023,
+                "Thailand": 1969, "Malaysia": 4004, "Nigeria": 380, "Bangladesh": 356, "Pakistan": 470,
+                "Ethiopia": 128, "Kenya": 401, "Ghana": 271, "Uganda": 249, "Tanzania": 280,
+                "Senegal": 445, "Cambodia": 288, "Argentina": 7697, "Chile": 5074, "Poland": 4454,
+                "Czech Republic": 5803, "Hungary": 4549, "Portugal": 11435, "Greece": 11636,
+                "Croatia": 4560, "Estonia": 3989, "Lithuania": 3110, "Saudi Arabia": 9216,
+                "UAE": 31186, "Kuwait": 18363, "Qatar": 27664, "Bahrain": 11474, "Singapore": 23793,
+                "New Zealand": 13215, "Iceland": 30243, "Malta": 9532, "Cyprus": 13442,
+                "Morocco": 1246, "Egypt": 1455, "Tunisia": 2239, "Algeria": 1746, "Botswana": 3252,
+                "Colombia": 2503, "Peru": 2047, "Ecuador": 1450, "Uruguay": 6818, "Costa Rica": 4263
+            };
+            
+            const base = baseGDP[country] || 1000;
+            const growthRate = region.includes("Europe") || region.includes("North America") ? 0.025 : 
+                              region.includes("Asia") ? 0.065 : 0.035;
+            
+            const gdp = base * Math.pow(1 + growthRate, year - 2000);
+            return Math.round(gdp);
+        }
+        
+        function generateFullDataset() {
+            const countries = [
+                { name: "United States", code: "USA", region: "North America", pop: 331900000 },
+                { name: "Germany", code: "DEU", region: "Europe & Central Asia", pop: 83200000 },
+                { name: "Japan", code: "JPN", region: "East Asia & Pacific", pop: 125800000 },
+                { name: "United Kingdom", code: "GBR", region: "Europe & Central Asia", pop: 67800000 },
+                { name: "France", code: "FRA", region: "Europe & Central Asia", pop: 67400000 },
+                { name: "Canada", code: "CAN", region: "North America", pop: 38200000 },
+                { name: "Australia", code: "AUS", region: "East Asia & Pacific", pop: 25700000 },
+                { name: "South Korea", code: "KOR", region: "East Asia & Pacific", pop: 51780000 },
+                { name: "Sweden", code: "SWE", region: "Europe & Central Asia", pop: 10350000 },
+                { name: "Norway", code: "NOR", region: "Europe & Central Asia", pop: 5380000 },
+                { name: "China", code: "CHN", region: "East Asia & Pacific", pop: 1412000000 },
+                { name: "India", code: "IND", region: "South Asia", pop: 1380000000 },
+                { name: "Brazil", code: "BRA", region: "Latin America & Caribbean", pop: 215000000 },
+                { name: "Russia", code: "RUS", region: "Europe & Central Asia", pop: 146000000 },
+                { name: "Mexico", code: "MEX", region: "Latin America & Caribbean", pop: 128900000 },
+                { name: "Indonesia", code: "IDN", region: "East Asia & Pacific", pop: 273500000 },
+                { name: "Turkey", code: "TUR", region: "Europe & Central Asia", pop: 84300000 },
+                { name: "South Africa", code: "ZAF", region: "Sub-Saharan Africa", pop: 59300000 },
+                { name: "Thailand", code: "THA", region: "East Asia & Pacific", pop: 69800000 },
+                { name: "Malaysia", code: "MYS", region: "East Asia & Pacific", pop: 32400000 },
+                { name: "Nigeria", code: "NGA", region: "Sub-Saharan Africa", pop: 218500000 },
+                { name: "Bangladesh", code: "BGD", region: "South Asia", pop: 164700000 },
+                { name: "Pakistan", code: "PAK", region: "South Asia", pop: 225200000 },
+                { name: "Ethiopia", code: "ETH", region: "Sub-Saharan Africa", pop: 118000000 },
+                { name: "Kenya", code: "KEN", region: "Sub-Saharan Africa", pop: 54000000 },
+                { name: "Ghana", code: "GHA", region: "Sub-Saharan Africa", pop: 32800000 },
+                { name: "Uganda", code: "UGA", region: "Sub-Saharan Africa", pop: 47100000 },
+                { name: "Tanzania", code: "TZA", region: "Sub-Saharan Africa", pop: 61500000 },
+                { name: "Senegal", code: "SEN", region: "Sub-Saharan Africa", pop: 17200000 },
+                { name: "Cambodia", code: "KHM", region: "East Asia & Pacific", pop: 16700000 },
+                { name: "Argentina", code: "ARG", region: "Latin America & Caribbean", pop: 45400000 },
+                { name: "Chile", code: "CHL", region: "Latin America & Caribbean", pop: 19100000 },
+                { name: "Poland", code: "POL", region: "Europe & Central Asia", pop: 37900000 },
+                { name: "Czech Republic", code: "CZE", region: "Europe & Central Asia", pop: 10700000 },
+                { name: "Hungary", code: "HUN", region: "Europe & Central Asia", pop: 9750000 },
+                { name: "Portugal", code: "PRT", region: "Europe & Central Asia", pop: 10300000 },
+                { name: "Greece", code: "GRC", region: "Europe & Central Asia", pop: 10700000 },
+                { name: "Croatia", code: "HRV", region: "Europe & Central Asia", pop: 3890000 },
+                { name: "Estonia", code: "EST", region: "Europe & Central Asia", pop: 1330000 },
+                { name: "Lithuania", code: "LTU", region: "Europe & Central Asia", pop: 2790000 },
+                { name: "Saudi Arabia", code: "SAU", region: "Middle East & North Africa", pop: 35000000 },
+                { name: "UAE", code: "ARE", region: "Middle East & North Africa", pop: 9890000 },
+                { name: "Kuwait", code: "KWT", region: "Middle East & North Africa", pop: 4270000 },
+                { name: "Qatar", code: "QAT", region: "Middle East & North Africa", pop: 2880000 },
+                { name: "Bahrain", code: "BHR", region: "Middle East & North Africa", pop: 1700000 },
+                { name: "Singapore", code: "SGP", region: "East Asia & Pacific", pop: 5850000 },
+                { name: "New Zealand", code: "NZL", region: "East Asia & Pacific", pop: 5120000 },
+                { name: "Iceland", code: "ISL", region: "Europe & Central Asia", pop: 372000 },
+                { name: "Malta", code: "MLT", region: "Europe & Central Asia", pop: 520000 },
+                { name: "Cyprus", code: "CYP", region: "Europe & Central Asia", pop: 1210000 }
+            ];
+            
+            let data = [];
+            
+            for (let year = 2000; year <= 2024; year++) {
+                for (let country of countries) {
+                    const internetPenetration = getInternetPenetration(country.name, year);
+                    const gdpPerCapita = getGDPPerCapita(country.name, year, country.region);
+                    
+                    data.push({
+                        country: country.name,
+                        countryCode: country.code,
+                        year: year,
+                        internetPenetration: Math.round(internetPenetration * 10) / 10,
+                        gdpPerCapita: gdpPerCapita,
+                        population: country.pop,
+                        region: country.region
+                    });
+                }
+            }
+            
+            // Convert to CSV
+            const headers = ["country", "countryCode", "year", "internetPenetration", "gdpPerCapita", "population", "region"];
+            const csvContent = headers.join(',') + '\n' + 
+                data.map(row => headers.map(h => row[h]).join(',')).join('\n');
+            
+            // Download
+            const blob = new Blob([csvContent], { type: 'text/csv' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.setAttribute('hidden', '');
+            a.setAttribute('href', url);
+            a.setAttribute('download', 'connectivity-full.csv');
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            
+            document.getElementById('results').innerHTML = `
+                <div class="info-box" style="background: #f0fdf4; border-color: #16a34a;">
+                    <h4>Dataset Generated with Population Data!</h4>
+                    <p><strong>connectivity-full.csv</strong> downloaded with ${data.length} records</p>
+                    <p>Covers: ${countries.length} countries × 25 years (2000-2024)</p>
+                    <p><strong>Now includes population data for bubble sizes!</strong></p>
+                    <p><strong>Replace your old connectivity-full.csv with this new file!</strong></p>
+                </div>
+            `;
+        }
+        
+        function generateCountryMapping() {
+            // This helps map country names to ISO codes for the geographic data
+            const mapping = `country,countryCode,geoCode
+United States,USA,840
+Germany,DEU,276
+Japan,JPN,392
+United Kingdom,GBR,826
+France,FRA,250
+Canada,CAN,124
+Australia,AUS,036
+South Korea,KOR,410
+Sweden,SWE,752
+Norway,NOR,578
+China,CHN,156
+India,IND,356
+Brazil,BRA,076
+Russia,RUS,643
+Mexico,MEX,484
+Indonesia,IDN,360
+Turkey,TUR,792
+South Africa,ZAF,710
+Thailand,THA,764
+Malaysia,MYS,458
+Nigeria,NGA,566
+Bangladesh,BGD,050
+Pakistan,PAK,586
+Ethiopia,ETH,231
+Kenya,KEN,404
+Ghana,GHA,288
+Uganda,UGA,800
+Tanzania,TZA,834
+Senegal,SEN,686
+Cambodia,KHM,116
+Argentina,ARG,032
+Chile,CHL,152
+Poland,POL,616
+Czech Republic,CZE,203
+Hungary,HUN,348
+Portugal,PRT,620
+Greece,GRC,300
+Croatia,HRV,191
+Estonia,EST,233
+Lithuania,LTU,440
+Saudi Arabia,SAU,682
+UAE,ARE,784
+Kuwait,KWT,414
+Qatar,QAT,634
+Bahrain,BHR,048
+Singapore,SGP,702
+New Zealand,NZL,554
+Iceland,ISL,352
+Malta,MLT,470
+Cyprus,CYP,196`;
+            
+            const blob = new Blob([mapping], { type: 'text/csv' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.setAttribute('hidden', '');
+            a.setAttribute('href', url);
+            a.setAttribute('download', 'country-codes.csv');
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            
+            document.getElementById('results').innerHTML = `
+                <div class="info-box" style="background: #fef3c7; border-color: #d97706;">
+                    <h4>Country Mapping Downloaded</h4>
+                    <p><strong>country-codes.csv</strong> helps map country names to geographic boundaries</p>
+                </div>
+            `;
+        }
+    </script>
+</body>
+</html>

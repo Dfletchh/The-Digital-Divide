@@ -1,0 +1,51 @@
+country,countryCode,geoCode
+United States,USA,840
+Germany,DEU,276
+Japan,JPN,392
+United Kingdom,GBR,826
+France,FRA,250
+Canada,CAN,124
+Australia,AUS,036
+South Korea,KOR,410
+Sweden,SWE,752
+Norway,NOR,578
+China,CHN,156
+India,IND,356
+Brazil,BRA,076
+Russia,RUS,643
+Mexico,MEX,484
+Indonesia,IDN,360
+Turkey,TUR,792
+South Africa,ZAF,710
+Thailand,THA,764
+Malaysia,MYS,458
+Nigeria,NGA,566
+Bangladesh,BGD,050
+Pakistan,PAK,586
+Ethiopia,ETH,231
+Kenya,KEN,404
+Ghana,GHA,288
+Uganda,UGA,800
+Tanzania,TZA,834
+Senegal,SEN,686
+Cambodia,KHM,116
+Argentina,ARG,032
+Chile,CHL,152
+Poland,POL,616
+Czech Republic,CZE,203
+Hungary,HUN,348
+Portugal,PRT,620
+Greece,GRC,300
+Croatia,HRV,191
+Estonia,EST,233
+Lithuania,LTU,440
+Saudi Arabia,SAU,682
+UAE,ARE,784
+Kuwait,KWT,414
+Qatar,QAT,634
+Bahrain,BHR,048
+Singapore,SGP,702
+New Zealand,NZL,554
+Iceland,ISL,352
+Malta,MLT,470
+Cyprus,CYP,196
